@@ -20,30 +20,42 @@ print(1,2);
 print(1,2,3);
 ```
 
-//Code Variables Exercises
-//Q1: Change just one line of the code below so it produces the following output when run.
-//xyz123
-//xyz123 xyz123
-//xyz123 xyz123 xyz123
+# Code Variables Exercises
+1. Q1: Change just one line of the code below so it produces the following output when run.
 
+xyz123
+
+xyz123 xyz123
+
+xyz123 xyz123 xyz123
+
+```javaskript
 x = "xyz123";
 print(x);
 print(x, x);
 print(x, x, x);
+```
 
-//Digital Image Exercises
-//Q1: How many colors can a single pixel show at one time?
+# Digital Image Exercises
+1. Q1: How many colors can a single pixel show at one time?
+```javaskript
 1
+```
 
-//Q2: In the RGB scheme, what are the RGB numbers to make pure white? Please type in the red, green, and blue numbers separated by spaces like this: 100 126 255
+2. Q2: In the RGB scheme, what are the RGB numbers to make pure white? Please type in the red, green, and blue numbers separated by spaces like this: 100 126 255
+```javaskript
 255 255 255
+````
 
-//Q3: What are the RGB numbers to make bright yellow? (Please type in the red, green, and blue numbers separated by spaces like this: 100 126 255)
+3. Q3: What are the RGB numbers to make bright yellow? (Please type in the red, green, and blue numbers separated by spaces like this: 100 126 255)
+```javaskritp
 255 255 0
+```
 
-//Image Code Exercises
-//Q1: Write code to set the pixel at (0, 0) to blue (i.e. blue value is 255, red and green are left at 0).
+# Image Code Exercises
+1. Q1: Write code to set the pixel at (0, 0) to blue (i.e. blue value is 255, red and green are left at 0).
 
+```javaskript
 image = new SimpleImage("x.png");
 image.setZoom(20);
 
@@ -53,9 +65,11 @@ pixel.setGreen(0);
 pixel.setBlue(255);
 
 print(image);
+```
 
-//Q2: Write code to set the pixel at (0, 0) to be violet (i.e. red and blue both 255, green left at 0).
+2. Q2: Write code to set the pixel at (0, 0) to be violet (i.e. red and blue both 255, green left at 0).
 
+```javaskript
 image = new SimpleImage("x.png");
 image.setZoom(20);
 pixel = image.getPixel(0, 0);
@@ -65,13 +79,14 @@ pixel.setGreen(0);
 pixel.setBlue(255);
 
 print(image);
+```
 
-//Q3: Write code to set the pixel at (1, 0) to be red.
+3. Q3: Write code to set the pixel at (1, 0) to be red.
 
+```javaskript
 image = new SimpleImage("x.png");
 image.setZoom(20);
 pixel = image.getPixel(1, 0);
 pixel.setRed(255);
 print(image);
-
-
+```
