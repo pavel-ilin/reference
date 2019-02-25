@@ -1,35 +1,35 @@
-#Code Writing Exercises
+//Code Writing Exercises
 
-#Q1: Change the "print" code below so it produces the following output when run: 1 2 hello
+//Q1: Change the "print" code below so it produces the following output when run: 1 2 hello
 print(1, 2, "hello");
 
-#Q2: Change the "print" code below so it produces the following output when run:
-#1
-#1 2
-#1 2 3
+//Q2: Change the "print" code below so it produces the following output when run:
+//1
+//1 2
+//1 2 3
 
 print(1);
 print(1,2);
 print(1,2,3);
 
-#Code Variables Exercises
-#Q1: Change just one line of the code below so it produces the following output when run.
-#xyz123
-#xyz123 xyz123
-#xyz123 xyz123 xyz123
+//Code Variables Exercises
+//Q1: Change just one line of the code below so it produces the following output when run.
+//xyz123
+//xyz123 xyz123
+//xyz123 xyz123 xyz123
 
 x = "xyz123";
 print(x);
 print(x, x);
 print(x, x, x);
 
-#Digital Image Exercises
-#Q1: How many colors can a single pixel show at one time?
+//Digital Image Exercises
+//Q1: How many colors can a single pixel show at one time?
 1
 
-#Image Code Exercises
-#Q2: In the RGB scheme, what are the RGB numbers to make pure white? Please type in the red, green, and blue numbers separated by spaces like this: 100 126 255
+//Image Code Exercises
+//Q2: In the RGB scheme, what are the RGB numbers to make pure white? Please type in the red, green, and blue numbers separated by spaces like this: 100 126 255
 255 255 255
 
-#Q3: What are the RGB numbers to make bright yellow? (Please type in the red, green, and blue numbers separated by spaces like this: 100 126 255)
+//Q3: What are the RGB numbers to make bright yellow? (Please type in the red, green, and blue numbers separated by spaces like this: 100 126 255)
 255 255 0
