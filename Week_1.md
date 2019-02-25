@@ -8,9 +8,9 @@ print(1, 2, "hello");
 -- 1 2
 -- 1 2 3
 
-< print(1);
-print(1,2);
-print(1,2,3); >
+> print(1);
+> print(1,2);
+> print(1,2,3);
 
 //Code Variables Exercises
 //Q1: Change just one line of the code below so it produces the following output when run.
