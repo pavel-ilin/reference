@@ -4,9 +4,9 @@
 print(1, 2, "hello");
 
 - Q2: Change the "print" code below so it produces the following output when run:
--- 1
--- 1 2
--- 1 2 3
+1
+1 2
+1 2 3
 
 ```javascript
 print(1);
