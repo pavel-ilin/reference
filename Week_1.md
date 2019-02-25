@@ -29,7 +29,7 @@ xyz123 xyz123
 
 xyz123 xyz123 xyz123
 
-```javaskript
+```javascript
 x = "xyz123";
 print(x);
 print(x, x);
@@ -38,24 +38,24 @@ print(x, x, x);
 
 # Digital Image Exercises
 1. Q1: How many colors can a single pixel show at one time?
-```javaskript
+```javascript
 1
 ```
 
 2. Q2: In the RGB scheme, what are the RGB numbers to make pure white? Please type in the red, green, and blue numbers separated by spaces like this: 100 126 255
-```javaskript
+```javascript
 255 255 255
 ````
 
 3. Q3: What are the RGB numbers to make bright yellow? (Please type in the red, green, and blue numbers separated by spaces like this: 100 126 255)
-```javaskritp
+```javascritp
 255 255 0
 ```
 
 # Image Code Exercises
 1. Q1: Write code to set the pixel at (0, 0) to blue (i.e. blue value is 255, red and green are left at 0).
 
-```javaskript
+```javascript
 image = new SimpleImage("x.png");
 image.setZoom(20);
 
@@ -69,7 +69,7 @@ print(image);
 
 2. Q2: Write code to set the pixel at (0, 0) to be violet (i.e. red and blue both 255, green left at 0).
 
-```javaskript
+```javascript
 image = new SimpleImage("x.png");
 image.setZoom(20);
 pixel = image.getPixel(0, 0);
@@ -83,7 +83,7 @@ print(image);
 
 3. Q3: Write code to set the pixel at (1, 0) to be red.
 
-```javaskript
+```javascript
 image = new SimpleImage("x.png");
 image.setZoom(20);
 pixel = image.getPixel(1, 0);
