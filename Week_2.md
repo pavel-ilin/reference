@@ -67,3 +67,33 @@ for (pixel: image) {
 }
 print(image);
 ```
+
+# Image Puzzle Exercises
+
+1. Q1: Write code to fix the puzzle-iron.png image. The red and green values in the image are random noise, so they should be set to 0. The real image is in the blue values, which have been divide by 10. The "solution" image will look blue, since it is exclusively in the blue values, so don't worry about that. We'll see a way to fix that blueness in a later section.
+
+```javascript
+image = new SimpleImage("puzzle-iron.png");
+
+for (pixel: image) {
+  pixel.setRed(0);
+  pixel.setGreen(0);
+  pixel.setBlue(pixel.getBlue() * 10);
+}
+print(image);
+```
+
+2. Q2: Write code to fix the puzzle-copper.png image. The red values in the image are random noise, so they should be set to 0. The real image is in the blue and green values, which have been divide by 10.
+
+```javascript
+image = new SimpleImage("puzzle-copper.png");
+
+for (pixel: image) {
+  pixel.setRed(0);
+  pixel.setGreen(pixel.getGreen() * 10);
+  pixel.setBlue(pixel.getBlue() *10);
+}
+print(image);
+```
+
+
