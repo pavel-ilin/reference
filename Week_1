@@ -27,9 +27,43 @@ print(x, x, x);
 //Q1: How many colors can a single pixel show at one time?
 1
 
-//Image Code Exercises
 //Q2: In the RGB scheme, what are the RGB numbers to make pure white? Please type in the red, green, and blue numbers separated by spaces like this: 100 126 255
 255 255 255
 
 //Q3: What are the RGB numbers to make bright yellow? (Please type in the red, green, and blue numbers separated by spaces like this: 100 126 255)
 255 255 0
+
+//Image Code Exercises
+//Q1: Write code to set the pixel at (0, 0) to blue (i.e. blue value is 255, red and green are left at 0).
+
+image = new SimpleImage("x.png");
+image.setZoom(20);
+
+pixel = image.getPixel(0, 0);
+pixel.setRed(0);
+pixel.setGreen(0);
+pixel.setBlue(255);
+
+print(image);
+
+//Q2: Write code to set the pixel at (0, 0) to be violet (i.e. red and blue both 255, green left at 0).
+
+image = new SimpleImage("x.png");
+image.setZoom(20);
+pixel = image.getPixel(0, 0);
+
+pixel.setRed(255);
+pixel.setGreen(0);
+pixel.setBlue(255);
+
+print(image);
+
+//Q3: Write code to set the pixel at (1, 0) to be red.
+
+image = new SimpleImage("x.png");
+image.setZoom(20);
+pixel = image.getPixel(1, 0);
+pixel.setRed(255);
+print(image);
+
+
