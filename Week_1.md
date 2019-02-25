@@ -1,15 +1,18 @@
 # Code Writing Exercises
 
-- Q1: Change the "print" code below so it produces the following output when run: 1 2 hello
+1. Q1: Change the "print" code below so it produces the following output when run: 1 2 hello
 
 ```javascript
 print(1, 2, "hello");
 ```
 
-- Q2: Change the "print" code below so it produces the following output when run:
-... 1
-... 1 2
-... 1 2 3
+2. Q2: Change the "print" code below so it produces the following output when run:
+
+1
+
+1 2
+
+1 2 3
 
 ```javascript
 print(1);
