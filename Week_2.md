@@ -112,7 +112,7 @@ pixel.setBlue(pixel.getRed());
 print(image);
 ```
 
-2. Here is the [banana.jpg](https://lagunita.stanford.edu/c4x/Engineering/CS101/asset/banana.jpg) image. Write code to change the banana.jpg image to be grayscale. Reminder: here is the line used in the loop to compute the average of the red/green/blue values and store that value in a variable named "avg".
+2. Q2: Here is the [banana.jpg](https://lagunita.stanford.edu/c4x/Engineering/CS101/asset/banana.jpg) image. Write code to change the banana.jpg image to be grayscale. Reminder: here is the line used in the loop to compute the average of the red/green/blue values and store that value in a variable named "avg".
 
 ```javascript
 image = new SimpleImage("banana.jpg");
