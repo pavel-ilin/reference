@@ -73,6 +73,49 @@ for (pixel: image) {
     pixel.setBlue(pixel2.getBlue());
   }
 }
+
+print(image);
+```
+Q2: For the next problem, we'll accomplish a sort of artistic effect, working with the [redwood.jpg image](https://lagunita.stanford.edu/assets/courseware/v1/6487ea9f87a143966e9fb26217f2fae4/c4x/Engineering/CS101/asset/redwood.jpg) and the [pebbles.jpg image](https://lagunita.stanford.edu/assets/courseware/v1/a51b79b6149a16518c1eaf524cb574f7/c4x/Engineering/CS101/asset/pebbles.jpg). Write bluescreen code to modify the redwood.jpg image, replacing the trunk and some of the branches of the tree with pixels from pebbles.jpg. The result is a sort of fanciful looking stone-tree image. Adjust the code so the lower trunk is changed to pebbles, but not too much of the greenery next to the trunk.
+
+```javascript
+image = new SimpleImage("redwood.jpg");
+back = new SimpleImage("pebbles.jpg");
+back.setSameSize(image);
+
+for (pixel: image) {
+  avg = (pixel.getRed() + pixel.getGreen() + pixel.getBlue())/3;
+if (pixel.getRed() > avg * 1.05) {
+
+    pixel2 = back.getPixel(pixel.getX(), pixel.getY());
+    pixel.setRed(pixel2.getRed());
+    pixel.setGreen(pixel2.getGreen());
+    pixel.setBlue(pixel2.getBlue());
+  }
+}
+
 print(image);
 ```
 
+Q3: The next problem, Fish Dreams of Paris, uses two images. [paris.jpg](https://lagunita.stanford.edu/assets/courseware/v1/7d61016dbb9ee943757ed9d41a890a98/c4x/Engineering/CS101/asset/paris.jpg) and [striped-fish-blue.jpg](https://lagunita.stanford.edu/assets/courseware/v1/ffca530896a4e0a5544333235a395bf1/c4x/Engineering/CS101/asset/striped-fish-blue.jpg). The "Fish Dreams of Paris" problem.
+The striped fish is facing right in front of a blue background. Parts of the fish are blue also -- the eye and the vertical stripe in the middle. For this problem, we'll let the background image replace those two blue areas as well.
+Write bluescreen code to place striped-fish-blue.jpg in front of paris.jpg. In particular, adjust the code so that the blue background, the blue middle stripe, and blue eye of the fish all show the paris.jpg pixels. Adjust the code so the blue towel below the fish is almost completely replaced.
+
+```javascript
+image = new SimpleImage("striped-fish-blue.jpg");
+back = new SimpleImage("paris.jpg");
+back.setSameSize(image);
+
+for (pixel: image) {
+  avg = (pixel.getRed() + pixel.getGreen() + pixel.getBlue())/3;
+  // your code here
+  if (pixel.getBlue() > avg * 0.5) {
+    pixel2 = back.getPixel(pixel.getX(), pixel.getY());
+    pixel.setRed(pixel2.getRed());
+    pixel.setGreen(pixel2.getGreen());
+    pixel.setBlue(pixel2.getBlue());
+  }
+}
+
+print(image);
+```
