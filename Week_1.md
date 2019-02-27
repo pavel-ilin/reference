@@ -6,7 +6,7 @@
 print(1, 2, "hello");
 ```
 
-* Q2: Change the "print" code below so it produces the following output when run:
+Q2: Change the "print" code below so it produces the following output when run:
 
 1
 
@@ -22,7 +22,7 @@ print(1,2,3);
 
 # Code Variables Exercises
 
-* Q1: Change just one line of the code below so it produces the following output when run.
+Q1: Change just one line of the code below so it produces the following output when run.
 
 xyz123
 
@@ -39,24 +39,24 @@ print(x, x, x);
 
 # Digital Image Exercises
 
-* Q1: How many colors can a single pixel show at one time?
+Q1: How many colors can a single pixel show at one time?
 ```javascript
 1
 ```
 
-* Q2: In the RGB scheme, what are the RGB numbers to make pure white? Please type in the red, green, and blue numbers separated by spaces like this: 100 126 255
+Q2: In the RGB scheme, what are the RGB numbers to make pure white? Please type in the red, green, and blue numbers separated by spaces like this: 100 126 255
 ```javascript
 255 255 255
 ````
 
-* Q3: What are the RGB numbers to make bright yellow? (Please type in the red, green, and blue numbers separated by spaces like this: 100 126 255)
+Q3: What are the RGB numbers to make bright yellow? (Please type in the red, green, and blue numbers separated by spaces like this: 100 126 255)
 ```javascritp
 255 255 0
 ```
 
 # Image Code Exercises
 
-* Q1: Write code to set the pixel at (0, 0) to blue (i.e. blue value is 255, red and green are left at 0).
+Q1: Write code to set the pixel at (0, 0) to blue (i.e. blue value is 255, red and green are left at 0).
 
 ```javascript
 image = new SimpleImage("x.png");
@@ -70,7 +70,7 @@ pixel.setBlue(255);
 print(image);
 ```
 
-* Q2: Write code to set the pixel at (0, 0) to be violet (i.e. red and blue both 255, green left at 0).
+Q2: Write code to set the pixel at (0, 0) to be violet (i.e. red and blue both 255, green left at 0).
 
 ```javascript
 image = new SimpleImage("x.png");
@@ -84,7 +84,7 @@ pixel.setBlue(255);
 print(image);
 ```
 
-* Q3: Write code to set the pixel at (1, 0) to be red.
+Q3: Write code to set the pixel at (1, 0) to be red.
 
 ```javascript
 image = new SimpleImage("x.png");
