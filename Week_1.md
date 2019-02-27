@@ -1,6 +1,6 @@
 # Code Writing Exercises
 
-* Q1: Change the "print" code below so it produces the following output when run: 1 2 hello
+Q1: Change the "print" code below so it produces the following output when run: 1 2 hello
 
 ```javascript
 print(1, 2, "hello");
