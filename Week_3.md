@@ -119,3 +119,23 @@ for (pixel: image) {
 
 print(image);
 ```
+
+# Bits and Bytes Exercises
+
+Q1: How many different values can be stored in 1 bit?
+
+```
+2
+```
+
+Q2: How many bits are there in one byte?
+
+```
+8
+```
+
+Q3: One byte can hold a value from 0 up to what maximum value?
+
+```
+255
+```
