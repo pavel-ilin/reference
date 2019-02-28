@@ -139,3 +139,29 @@ Q3: One byte can hold a value from 0 up to what maximum value?
 ```
 255
 ```
+
+# Kilobytes Megabytes Exercises
+
+Q1: 4000 kilobytes (KB) is approximately equal to how many megabytes (MB)? (For all the problems in this section, just type in a number. The unit (MB or GB or whatever) is always specified in the problem text.)
+
+```
+4
+```
+
+Q2: Suppose you have 10 image files, each taking up 300 KB. About how many MB of space do they take up overall?
+
+```
+3
+```
+
+Q3: Suppose you have four 500 MB hard drives plus one 2 GB flash drive. How many GB of capacity is this overall?
+
+```
+4
+```
+
+Q4: Suppose we have a video camera that produces video data at the rate of 2 GB per hour. Recording for 15 minutes creates about how many MB of data? (Note that the answer is in MB)
+
+```
+500
+```
