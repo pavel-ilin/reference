@@ -165,3 +165,26 @@ Q4: Suppose we have a video camera that produces video data at the rate of 2 GB 
 ```
 500
 ```
+
+# Make Your Own Bluescreen
+
+```javascript
+image = new SimpleImage("IMG_0069.jpg");
+back = new SimpleImage("1.jpg");
+back.setSameSize(image);
+
+for (pixel: image) {
+  avg = (pixel.getRed() + pixel.getGreen() + pixel.getBlue())/3;
+  // your code here
+   if (pixel.getBlue() > avg * 0.92) {
+    pixel2 = back.getPixel(pixel.getX(), pixel.getY());
+    pixel.setRed(pixel2.getRed());
+    pixel.setGreen(pixel2.getGreen());
+    pixel.setBlue(pixel2.getBlue());
+  }
+}
+print(image);
+```
+Result:
+
+![Result](https://lh3.googleusercontent.com/5Vz74DfiiQ04efkKVUFQH4ohFiZWmy7wg378boPweB-r_tXqyoH8gx5J6eL3jhHGTyWh_pTa7FjEmidpIsECS3ewzMQe4gpNWw4ddDNjU6Oyps4f1ND1voOU8F18oYKWup17RWNUCs3hjEErCWqKNuL3s8Pln95UAgSF1hi0muhVMTlFrE73uKHBwEG8El9Jadv1wg1SFLCQVTjKgFRzdeY1EsN367Pvg61MWB0CYJDQbYeKha-NLbDV7PNBfNXM3ZJWZO95xjh8x5pSTRj0KWIyGGDxilJtwP5eQJJa5ZWK9Ri-YRjTAbZLI9HxBRvrP5FJ9YlP4IG5U_tNANzYQdbztwgYhTwmjR3EWWdeK1pgdXzBuYNmCrSkROI0Dp7FdKVE0pKTnpMfXHsapH1HNm2kKCv4OhKiD87UaT6lELBYfhH8V1OdZJxIk6vmyCVibrsby6jXYeO54SEUIJhf9vabnnCThVF4CRZ0jiWUd6vzzDxX7OVRJZPi_olsefulWSV5klbRMs_jr0JDK5rjrEYquBS9J7QFJx9XGMRHFxXVf0l21zGVjZmf4uYEROdVm4dYADLCOtWk3Aol1OiYlyDCtFMve4mind4qvxMU--Y6WR_dqxmwA4oAgVqmWHVx0W7BhX3yUaoOnNAlg4a5PRNzh8P4Btk=w800-h600-no)
