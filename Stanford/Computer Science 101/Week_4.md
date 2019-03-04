@@ -57,3 +57,22 @@ Q3: What is the purpose of a packet checksum?
 ```
 Allow the recipient to detect if bytes received were corrupted in transit.
 ```
+
+# The Internet - TCP/IP
+
+Q1: Which one of the following is not a valid IP address?
+
+```
+42.257.99.11
+```
+Q2: Which one of the following is generally not true about routers?
+
+```
+Routers check the central internet-map which shows routes for all packets
+```
+Q3: What does ping do?
+
+```
+Sends a "are you there" packet to a computer, getting back a "yes" packet
+```
+
