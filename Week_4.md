@@ -38,3 +38,22 @@ Q3: Firefox is an open source program, so anyone can get access to the source co
 Anyone is free to run the compiler to produce and distribute their own version of Firefox.exe.
 ```
 
+# Computer Network
+
+Q1: Suppose a computer wants to send a packet on ethernet, as shown in lecture. The computer first waits for what?
+
+```
+Waits for the ethernet wire to be quiet.
+```
+
+Q2: Suppose we are using the same checksum scheme as in lecture: add up all the bytes, and take just the last two digits of the sum. What is the checksum of the following bytes: 101, 202, 103, 100, 210, 120
+
+```
+36
+```
+
+Q3: What is the purpose of a packet checksum?
+
+```
+Allow the recipient to detect if bytes received were corrupted in transit.
+```
