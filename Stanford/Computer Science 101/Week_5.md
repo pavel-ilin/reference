@@ -117,20 +117,61 @@ print("count:", count);
 ```
 # Table Counting Multiple
 
-Q1:
+Q1: Do more baby names start with "A" or "B"?
 
 ```javascript
-
+table = new SimpleTable("baby-2010.csv");
+count1 = 0;
+count2 = 0;
+for (row: table) {
+   if (row.getField("name").startsWith("A")) {
+    count1 = count1 + 1;
+  }
+  if (row.getField("name").startsWith("B")) {
+    count2 = count2 + 1;
+  }
+}
+print("A count:", count1);
+print("B count:", count2);
 ```
 
-Q2:
+Q2: Now we'll look at the survey data. How many people identified "red" or "blue" as their favorite color?
 
 ```javascript
-
+table = new SimpleTable("survey-2012.csv");
+table.convertToLowerCase();
+count1 = 0;
+count2 = 0;
+for (row: table) {
+  if (row.getField("color") == "red"){
+    count1 = count1 + 1;
+  }
+  if (row.getField("color") == "blue") {
+    count2 = count2 + 1;
+}
+}
+print("Red count:", count1);
+print("Blue count:", count2);
 ```
 
-Q3:
+Q3: Instead of looking at the whole survey, let's look only at the people who identified "coke" as their favorite soda (not "diet coke", just "coke"). How many of them ("coke" rows) identified "red" or "blue" as their favorite color?
 
 ```javascript
-
+table = new SimpleTable("survey-2012.csv");
+table.convertToLowerCase();
+count1 = 0;
+count2 = 0;
+for (row: table) {
+  if (row.getField("color") == "red" && 
+      row.getField("soda") == "coke")
+      {
+    count1 = count1 + 1;
+  }
+  if (row.getField("color") == "blue" && 
+      row.getField("soda") == "coke") {
+    count2 = count2 + 1;
+}
+}
+print("Red-coke count:", count1);
+print("Blue-coke count:", count2);
 ```
