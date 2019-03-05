@@ -115,4 +115,22 @@ for (row: table) {
 }
 print("count:", count);
 ```
+# Table Counting Multiple
 
+Q1:
+
+```javascript
+
+```
+
+Q2:
+
+```javascript
+
+```
+
+Q3:
+
+```javascript
+
+```
