@@ -33,4 +33,6 @@ for (row: table) {
 }
 ```
 
-# 
+# Table Boolean Logic
+
+
