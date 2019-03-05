@@ -175,3 +175,25 @@ for (row: table) {
 print("Red-coke count:", count1);
 print("Blue-coke count:", count2);
 ```
+
+# Analog and Digital
+
+Q1: Suppose we have two musical notes, X and Y, and note X is higher than note Y. Which one of the following must be true.
+
+```
+Note X has more cycles per second than note Y. 
+```
+
+Q2: Clearly it is possible to be in a room and hear two distinct sounds at the same time. Which one of the following describes how this works.
+
+```
+The sound signals mix in the air, forming a sum signal. The ear takes in this sum and recovers the original signals.
+```
+
+Q3: Select any of the following which are examples of an analog system.
+
+```
+* Suppose we have two cans connected with string. Speak into one tin can. The can vibrates a string, which vibrates the can at the other end.
+* On vinyl music records there are tiny up and down movements cut into the plastic to represent the up and down movements of the sound on the record.
+* Visualize an 18th century pirate sailing ship. Visualize the big ship's wheel. The wheel is connected through a series of ropes and pulleys to the big vertical rudder at the back of the ship. Turning the wheel a little moves the rudder a little. Turning the wheel a lot moves the rudder a lot.
+```
