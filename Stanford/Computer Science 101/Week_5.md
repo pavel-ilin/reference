@@ -71,3 +71,48 @@ for (row: table) {
 }
 ```
 
+# Table Counting
+
+Q1: Write code to count and print number of names starting with the letter "O".
+
+```javascript
+table = new SimpleTable("baby-2010.csv");
+count = 0;
+for (row: table) {
+  if (row.getField("name").startsWith("A")) {
+    print(row);
+    count = count + 1;  // increases the value in count by 1
+  }
+}
+print("count:", count);
+
+```
+
+Q2: Write code to count and print number of girl names starting with "T".
+
+```javascrifp
+table = new SimpleTable("baby-2010.csv");
+count = 0;
+for (row: table) {
+  if (row.getField("name").startsWith("T") &&
+      row.getField("gender") == "girl")  {
+    count = count + 1;  // increases the value in count by 1
+  }
+}
+print("count:", count);
+```
+
+Q3: Write code to count and print number of boy names ending with "d".
+
+```javascrifp
+table = new SimpleTable("baby-2010.csv");
+count = 0;
+for (row: table) {
+  if (row.getField("name").endsWith("d") &&
+      row.getField("gender") == "boy")  {
+    count = count + 1;  // increases the value in count by 1
+  }
+}
+print("count:", count);
+```
+
