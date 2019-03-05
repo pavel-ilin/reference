@@ -76,3 +76,47 @@ Q3: What does ping do?
 Sends a "are you there" packet to a computer, getting back a "yes" packet
 ```
 
+# Table Data
+
+Q1: Write code to print the row for the name "Atticus".
+
+```javascript
+table = new SimpleTable("baby-2010.csv");
+for (row: table) {
+   if (row.getField("name") == "Atticus") {
+    print(row);
+  }
+}
+```
+
+Q2: Write code to print the rows for the name "River". In this case, there are two such rows, but the same basic code pattern as for question 1 works. This shows how the loop really is just testing every row.
+
+```javascript
+table = new SimpleTable("baby-2010.csv");
+for (row: table) {
+   if (row.getField("name") == "River") {
+    print(row);
+  }
+```
+
+Q3: Write code to print the rows where the rank is less than (<) 10, i.e. ranks 1 through 9.
+
+```javascript
+table = new SimpleTable("baby-2010.csv");
+for (rank: table) {
+  if (rank.getField("rank") < 10) {
+    print(rank);
+  }
+}
+```
+
+Q4: Write code to print the rows where the rank is greater than 950.
+
+```javascript
+table = new SimpleTable("baby-2010.csv");
+for (rank: table) {
+  if (rank.getField("rank") > 950) {
+    print(rank);
+  }
+}
+```
