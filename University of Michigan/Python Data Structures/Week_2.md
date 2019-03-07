@@ -6,30 +6,58 @@ for cheese in fhand:
     print(cheese)
 ```
 
-```python
+Lines counting loop
 
+```python
+fhand = open ('test.txt')
+count = 0
+for line in fhand:
+    count = count +1
+    print(count)
 ```
 
-```python
+Reading whole file
 
+```python
+fhand = open ('test.txt')
+inp = fhand.read()
+print(len(inp))
+print(inp[:20])
 ```
 
-```python
+Searching through a file
 
+```python
+fhand = open ('test.txt')
+for line in fhand:
+    line = line.rstrip() #eraise empty lines
+    if line.startswith("t"):
+        print(line)
 ```
 
-```python
+Open file with input
 
+```python
+fname = input ()
+fhand = open(fname)
+for line in fhand:
+    line = line.rstrip() #araise empty lines
+    if line.startswith("t"):
+        print(line)
 ```
 
-```python
-
-```
+Open file with input (bad input)
 
 ```python
+fname = input ()
+try:
+    fhand = open(fname)
+except:
+    print("Wrong file name:", fname)
+    quit()
 
-```
-
-```python
-
+for line in fhand:
+    line = line.rstrip() #araise empty lines
+    if line.startswith("t"):
+        print(line)
 ```
