@@ -169,7 +169,7 @@ for email in dict1:
 print(s,mvalue)
 ```
 
-How Assignment should looks lime
+How Assignment should looks like
 
 ```python
 name = input("Enter file:")
