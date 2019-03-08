@@ -1,0 +1,83 @@
+```python
+print (3.14+9.5+3)
+```
+
+```python
+print ("This notebook belongs to ""Павел " + "Ильин")
+```
+
+```python
+sm_number = "5"
+big_number = "10"
+print (sm_number + big_number)
+```
+
+```python
+first_name = "Павел"
+print ("Hello " + first_name + " Ильин")
+```
+
+```python
+add_two = 50+87+12
+print (add_two)
+```
+
+```python
+first_name = "Pavel"
+greetings = "Hello " + first_name
+print (greetings)
+```
+
+```python
+greetings_test = greetings + ", how are you today?"
+print (greetings_test)
+```
+
+```python
+add_one = 100+50
+add_two = 50+87+12
+add_three = add_one + add_two
+print (add_three)
+```
+
+```python
+my_number = "100"
+print ("my number is " + my_number)
+```
+
+```python
+total = "3"
+print(total + " students are signed up for tutoring")
+```
+
+```python
+# the letter 'A'
+print("    *")
+print("   * *")
+print("  *****")
+print(" *     *")
+print("*       *")
+print()
+```
+
+```python
+print("_            _")
+print(" \          /")
+print("  \        /")
+print("   \ .   ./")
+print("       v")
+print()
+```
+
+```python
+print("aaaaaaaaaaa")
+print("aaaaaaaaaaa")
+print("aa")
+print("aa")
+print("aaaaaaaaaaa")
+print("aaaaaaaaaaa")
+print("aa")
+print("aa")
+print("aaaaaaaaaaa")
+print("aaaaaaaaaaa")
+```
