@@ -95,7 +95,6 @@ def age_20(age):
     returne_age = (user_age + " years old, " + age + " years old from now")
     return returne_age
 
-
 total_age = age_20("20")
 print(total_age)
 ```
@@ -134,8 +133,6 @@ price_value = 5
 order_ammount = float(input())
 
 calculus = order_ammount * price_value
-
-
 
 if order_ammount > max_value:
     print(order_ammount, "is more than currently available stock")
