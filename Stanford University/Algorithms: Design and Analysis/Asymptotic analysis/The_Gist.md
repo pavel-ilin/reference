@@ -56,3 +56,23 @@ O(n^2)
 Explanation: n^2 because it's a nesting "for" loop.
 
 
+The Gist - Question 4
+Problem: Does array A have duplicate entries? Given arrays A of length n.
+
+```
+Algorithm 4
+      
+1: for i = 1 to n do
+2:    for j = i+1 to n do
+3:       if A[i] == A [j] then
+4:           Return TRUE
+5: Return FALSE
+```
+
+What is the running time of this piece of code?
+
+```
+O(n^2)
+```
+
+
