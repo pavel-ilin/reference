@@ -51,5 +51,5 @@ Algorithm 3
 What is the running time of this piece of code?
 
 ```
-
+O(n^2)
 ```
