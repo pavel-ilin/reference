@@ -15,7 +15,6 @@ O(n)
 ```
 
 The Gist - Question 2
-
 Given A, B (arrays of length n) and t (an integer). Does A or Bcontain t?
 
 ```
@@ -36,3 +35,21 @@ What is the running time of this piece of code?
 O(n)
 ```
 
+The Gist - Question 3
+Problem: Do arrays A, B have a number in common? Given arrays A, B of length n.
+
+```
+Algorithm 3
+      
+1: for i = 1 to n do
+2:    for j = 1 to n do
+3:       if A[i] == B[j] then
+4:           Return TRUE
+5: Return FALSE
+```
+
+What is the running time of this piece of code?
+
+```
+
+```
