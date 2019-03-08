@@ -53,3 +53,6 @@ What is the running time of this piece of code?
 ```
 O(n^2)
 ```
+Explanation: n^2 because it's a nesting "for" loop.
+
+
