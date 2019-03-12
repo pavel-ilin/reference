@@ -9,6 +9,7 @@ Add file(s) to the index
 ```
 git add<file>
 git add *.html // add all .html files into the index
+git add . // add everything into tht index
 
 ```
 
