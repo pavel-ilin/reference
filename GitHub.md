@@ -15,4 +15,9 @@ Check status of working tree
 git status
 ```
 
+Commit changes in index
+```
+git commit
+```
+
 
