@@ -30,5 +30,10 @@ Pull latest version from remote repository
 git pull
 ```
 
+Clone repository to a new directory
+```
+git clone
+```
+
 
 
