@@ -38,5 +38,11 @@ Clone repository to a new directory
 git clone
 ```
 
+Add credentials
+```
+ git config --global user.name 'Your name'
+ git config --global user.email 'Your email'
+ 
+ 
 
 
