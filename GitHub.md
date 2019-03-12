@@ -25,5 +25,10 @@ Push to remote repository
 git push
 ```
 
+Pull latest version from remote repository
+```
+git pull
+```
+
 
 
