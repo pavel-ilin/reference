@@ -20,4 +20,10 @@ Commit changes in index
 git commit
 ```
 
+Push to remote repository
+```
+git push
+```
+
+
 
