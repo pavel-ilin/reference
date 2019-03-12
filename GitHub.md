@@ -8,6 +8,8 @@ git init
 Add file(s) to the index
 ```
 git add<file>
+git add *.html // add all .html files into the index
+
 ```
 
 Check status of working tree
