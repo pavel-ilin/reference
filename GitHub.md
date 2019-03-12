@@ -10,3 +10,9 @@ Add file(s) to the index
 git add<file>
 ```
 
+Check status of working tree
+```
+git status
+```
+
+
