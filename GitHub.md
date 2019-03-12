@@ -25,12 +25,12 @@ git commit
 
 Push to remote repository
 ```
-git push
+git push -u origin master
 ```
 
 Pull latest version from remote repository
 ```
-git pull
+git pull origin master
 ```
 
 Clone repository to a new directory
