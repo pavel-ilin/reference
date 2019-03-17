@@ -37,12 +37,16 @@ Clone repository to a new directory
 ```
 git clone
 ```
-
+Sets the new remote
+```
+git remote add origin remote repository URL
+```
+Verifies the new remote URL
+```
+git remote -v
+```
 Add credentials
 ```
  git config --global user.name 'Your name'
  git config --global user.email 'Your email'
- 
- 
-
-
+```
