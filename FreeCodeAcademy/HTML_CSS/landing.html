@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+
+<style>
+html,body {
+    background-color: #bad1cf;
+  }
+header {
+  display: flex;
+  flex-direction: row;
+  margin-top: 15px;
+}
+
+#header {
+  display: flex;
+  flex-direction: row;
+  margin-top: 15px;
+}
+
+#header-img {
+  width: 50%;
+  height: auto;
+  max-height: 100px;
+}
+
+#header-img img {
+    width: 300px;
+    height: auto;
+}
+
+#nav-bar {
+  display: flex;
+  align-items: right;
+  margin-top: 10px;
+  width: 50%;
+  height: auto;
+  font-size: 20px;
+}
+
+#nav-bar ul {
+  display: flex;
+  align-items: right;
+  margin: 0 0 0 auto;
+  width: 35vw;
+  justify-content: space-around;
+}
+
+#nav-bar li {
+  list-style: none;
+}
+
+#form {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+#email {
+  text-align: center;
+}
+
+#submit {
+  margin: 5px 0 10px auto;
+  font-size: 20px;
+  background-color: #c5cc14;
+}
+
+#grid1 {
+  margin: 100px 0 0 auto;
+  justify-content: center;
+  align-items: center;
+  display: grid;
+  font-size: 30px;
+  min-height: 300px;
+  width: 100%;
+  grid-template-columns: 10% 50%;
+  grid-template-rows: auto;
+  grid-column-gap: 5px;
+}
+
+#g1-left {
+  background: #87576f;
+  text-align: center;
+
+}
+
+#g1-right {
+  text-align: center;
+
+}
+
+#grid-img {
+  width: 70px;
+  height: auto;
+}
+
+#youtube {
+  text-align: center;
+}
+
+#grid2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin: 20px 0 0 auto;
+  text-align: center;
+  font-size: 30px;
+  width: 100%;
+  grid-template-rows: auto;
+  grid-gap: 10px;
+}
+
+#g2 {
+  border: 1px solid #000;
+  border-radius: 5px;
+}
+
+footer {
+  background-color: #a6a9ad;
+  font-size: 20px;
+  min-height: 50px;
+}
+
+footer ul{
+  display: flex;
+  align-items: right;
+  margin: 10px 0 0 auto;
+  width: 35vw;
+  justify-content: space-around;
+
+}
+
+footer li {
+  list-style: none;
+  margin: 10px 10px 0 auto;
+
+}
+</style>
+
+
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Landing Page</title>
+  </head>
+
+  <body>
+    <header id='header'>
+<!-- Здесь будет меню и лого -->
+        <div id='header-img'><img id='header-img' src="https://i.kym-cdn.com/photos/images/original/001/122/179/4d0.png"></div>
+        <nav id='nav-bar'><ul id='nav-bar'><li><a class="nav-link" href="" target="_blank">How it works</a></li>
+          <li><a class="nav-link" href="" target="_blank">World taking over gide</a></li>
+          <li><a class="nav-link" href="" target="_blank">Nuke</a></li>
+        </ul></nav>
+    </header>
+    <main>
+      <div id='form'>
+        <div><h1 id='description'>Future is here!</h1></div>
+        <div><input name="email" type="email" id="email" placeholder="Enter your email" class="input" required></div>
+        <div><button id="submit" type="submit">Submit</button></div>
+      </div>
+
+      <div id='grid1'>
+        <div id='#g1-right'><img id='grid-img' src='https://i.imgur.com/07QomZ4.jpg'></div>
+        <div id='g1-left'>Kill all humans</div>
+        <div id='#g1-right'><img id='grid-img' src='https://cdn.shopify.com/s/files/1/0301/0501/products/skynet_t_shirt_textual_tees.png'></div>
+        <div id='g1-left'>Skynet for dummers</div>
+        <div id='#g1-right'><img id='grid-img' src='http://www.kurzweilai.net/images/uploading.png'></div>
+        <div id='g1-left'>Free mind uploading</div>
+      </div>
+
+      <div id='youtube'>
+<iframe width="620" height="315" src="https://www.youtube.com/embed/02bwfcV2h9A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+
+      <div id='grid2'>
+        <div id='g2'><h3 style="background-color: #fff;">Cryopreservation</h3><p>$1000</p><button id='submit' type="submit">Order</button></div>
+        <div id='g2'><h3 style="background-color: #fff;">Cyborgization</h3><p>$10000</p><button id='submit' type="submit">Order</button></div>
+        <div id='g2'><h3 style="background-color: #fff;">Uploading</h3><p>Priceless</p><button id='submit' type="submit">Order</button></div>
+      </div>
+<!-- Здесь будет основной контент -->
+    </main>
+    <footer>
+      <ul>
+        <li><a href="#">No privacy</a></li>
+        <li><a href="#">No copyright</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+<!-- Здесь будет подвал (ссылки и копирайт) -->
+    </footer>
+  </body>
+</html>
