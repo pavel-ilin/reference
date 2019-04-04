@@ -1,3 +1,3 @@
 # CS_Education
 
-Never stop learning
+Keep growing
