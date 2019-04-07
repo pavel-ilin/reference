@@ -20,7 +20,7 @@ When we press letter A keyboard send signal to CPU which translate signal into a
 
 Algorithm is a repeatable set of steps that can take inputs and that produce a predictable, consistent output.
 
-# Logic and Computer Science
+## Logic and Computer Science
 
 Using syllogisms we can write precise instruction for computers what we want them to do.
 
