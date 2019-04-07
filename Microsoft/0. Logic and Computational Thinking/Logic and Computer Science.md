@@ -1,14 +1,14 @@
-#Formal Logic and Computer Science
+# Formal Logic and Computer Science
 
-##Logic: A Brief Introduction
+## Logic: A Brief Introduction
 
 Logic it's a science (like a law of nature) about how think well. 
 
-##What is a Turing Machine?
+## What is a Turing Machine?
 
 Turing Machine - theoretical machine which you binary code 1 and 0, two different state. All computer is exactly Turing machine, the only difference is the scale. Computers contain lots of 1 and 0 switches which make possible all that computers does. Turing discover was that we can use different combination of switches we can represent just about anything.
 
-##Bits and Bytes
+## Bits and Bytes
 
 Bit - one of the states 0 and 1. Bit can be 0 or 1 at any given time but has the potential to be ether at other given time.
 
@@ -16,10 +16,12 @@ Byte - single unit of information, which is contain combinations of 8 bits.
 
 When we press letter A keyboard send signal to CPU which translate signal into a Byte (8 bits, 8 digits), after CPU compute this signal it send another signal to screen to print letter A.
 
-##Algorithms 
+## Algorithms 
 
 Algorithm is a repeatable set of steps that can take inputs and that produce a predictable, consistent output.
 
-#Logic and Computer Science
+# Logic and Computer Science
 
 Using syllogisms we can write precise instruction for computers what we want them to do.
+
+
