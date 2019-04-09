@@ -1,6 +1,6 @@
 # Python	Regular	Expression	Quick	Guide
 
-```
+```python
 ^ Matches the beginning of a line
 $ Matches the end of the line
 . Matches any character
