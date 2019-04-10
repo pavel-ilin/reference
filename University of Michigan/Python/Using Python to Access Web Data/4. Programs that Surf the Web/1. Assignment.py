@@ -17,18 +17,10 @@ tags = soup('span')
 tag_digits = []
 
 for tag in tags:
-    tag_digits.append(tag.contents)
+    for y in tag.contents:
+        tag_digits.append(y)
 
-#print(tag_digits) #just check how list looks like
-    
-list_1 = []
-for x in tag_digits:
-    for y in x:
-        list_1.append(y)
-        
-#print(list_1) #just check how list looks like
-
-list_1 = [int(i) for i in list_1]
-print(list_1)
-print('Count: ', len(list_1))
-print("Sum: ", sum(list_1))
+tag_digits = [int(i) for i in tag_digits]
+print(tag_digits)
+print('Count: ', len(tag_digits))
+print("Sum: ", sum(tag_digits))
