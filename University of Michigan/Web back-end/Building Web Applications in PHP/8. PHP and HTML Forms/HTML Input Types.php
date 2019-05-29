@@ -17,7 +17,7 @@ $_POST:
 
 ## select/drop-down
 <select name"soda" id="inp06">
-  <option value="0">-- Please select --</option>
+  <option value="0" selected>-- Please select --</option>
   <option value="1">Coke</option>
   <option value="2">Pepsi</option>
   <option value="3">Water</option>
