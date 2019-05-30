@@ -64,3 +64,6 @@ while True:
   print(data.decode())
 mysock.close()
 ```
+
+![encoding/decoding](https://pp.userapi.com/c850236/v850236694/11d9ad/A-mUedabzk0.jpg)
+
