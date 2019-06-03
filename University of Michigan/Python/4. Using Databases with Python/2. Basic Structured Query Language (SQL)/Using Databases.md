@@ -8,8 +8,9 @@ Database Administrator - monitors and adjusts the database as the program runs i
 
 Often both roles participate in the building of the "Data model"
 
-Data analysis structure
-picture
+## Data analysis structure
+
+![Data analysis structure](https://pp.userapi.com/c854020/v854020880/5f2c0/ech0tVlq_4E.jpg)
 
 Database model - is the structure of format of a database, described in a formal language supported by the database management system. In other words, a "database model" is the application of a data model when used in conjunction with a database management system.
 
