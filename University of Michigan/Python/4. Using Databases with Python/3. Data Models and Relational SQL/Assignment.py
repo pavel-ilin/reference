@@ -6,7 +6,6 @@ cur = conn.cursor()
 
 cur.executescript("""
     DROP TABLE IF EXISTS Artist;
-
     DROP TABLE IF EXISTS Album;
     DROP TABLE IF EXISTS Genre;
     DROP TABLE IF EXISTS Track
@@ -96,3 +95,4 @@ for entry in all:
         ( name, album_id, genre_id, length, rating, count ) )
 
 conn.commit()
+conn.close()
