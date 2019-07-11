@@ -52,7 +52,7 @@ So, <h1> is a child element of its parent, the <body> tag.
 ### Organizing Content on a Webpage
 
 ### Semantic HTML Tags:
-- <header>, <main>, <footer>, <article>, <aside>, <nav>
+- header, main, footer, article, aside, nav
 - Tell you something about the content they contain.
 - Indicate how the content will be displayed on the webpage.
 
@@ -61,7 +61,7 @@ So, <h1> is a child element of its parent, the <body> tag.
 Semantic HTML helps you introduce meaning and organization to your webpages. Most webpages have some common elements; a navigation bar that takes you to different parts of a website, along with a main section of content.
 
 ### Non-Semantic HTML Tags:
-- <div>, <span>
+- div, span
 - Don’t tell you much about the content they contain.
 - Are used more generally to organize groups of elements.
 

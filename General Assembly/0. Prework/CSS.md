@@ -37,8 +37,8 @@ a:hover {
 
 ### List Styling
 
-The <ol> (ordered list) is numbered.
-The <ul> (unordered list) comes with solid disc bullet points.
+The ol (ordered list) is numbered.
+The ul (unordered list) comes with solid disc bullet points.
 
 We have several choices for how our bullets can look, such as square (a solid square) or circle (an open circle). Hannah has asked us to remove the bullet points altogether. We can do this by setting the list-style value to none.
 
