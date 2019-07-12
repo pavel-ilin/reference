@@ -1,4 +1,4 @@
-Course project:[Lapis, Papyrus, Scalpellus](https://codepen.io/refugee-studio/pen/NZJEEB)
+Course project: [Lapis, Papyrus, Scalpellus](https://codepen.io/refugee-studio/pen/NZJEEB)
 ---
 # Introduction to Javascript
 
