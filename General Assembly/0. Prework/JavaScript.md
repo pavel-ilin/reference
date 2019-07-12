@@ -1,3 +1,5 @@
+Course project:[Lapis, Papyrus, Scalpellus](https://codepen.io/refugee-studio/pen/NZJEEB)
+---
 # Introduction to Javascript
 
 ## JavaScript Syntax
@@ -315,3 +317,239 @@ while (number < 500) {
 ### To “For” or to “While,” That Is the Question
 - If you know exactly how many times the loop should execute, use a for loop for its precision. This includes iterating over an array, which has a specific amount of items.
 - If you’re not sure how many times the loop has to run but you do know when it should stop, use a while loop.
+
+# Functions in JavaScript
+
+We can bundle up those lines of code into a function:
+```JavaScript
+function takeDamage() {
+    player.health -= 1;
+    player.damageTaken += 1;
+    player.points -= 100;
+}
+```
+## DRY - Don’t Repeat Yourself
+
+### Defining a Function
+![Function](https://ga-instruction.s3.amazonaws.com/assets/intro-tech/js-unit-assets/function.png)
+- First, we have the function keyword, which lets JavaScript know we’re declaring a function.
+- Then, we write the function’s name — in this case, sayHello. A function’s name should always describe what the function does.
+- The parentheses are there to define parameters or any input the function requires. This function has no parameters, but we still put empty () after the function name.
+- Then, we have the code block we want to execute surrounded by curly braces. This should seem familiar — it’s the same way we defined a code block for conditionals and loops. The idea is the same; we define what we want to happen under certain conditions (in this case, when the function is invoked).
+
+### Invoking a Function
+
+```JavaScript
+function sayHello() {
+    console.log("Hello!");
+}
+
+sayHello();
+```
+
+### Introducing: Parameters
+We can give the function different information to work with using parameters. Instead of doing the same thing with the same information each time, we have the function perform the same tasks on any data we give it. We can add multiple parameters separated by commas in the parentheses.
+
+```JavaScript
+function calculateTotal(price, salesTaxRate) {
+   const totalAmount = price + (price * salesTaxRate);
+   console.log("The total is $" + totalAmount);
+}
+```
+
+### From Parameters to Arguments
+When we invoke a function, we replace parameters with the data we want them to actually use. The data we provide when invoking a function is called an argument.
+
+```JavaScript
+function calculateTotal(price, salesTaxRate) {
+   const totalAmount = price + (price * salesTaxRate);
+   console.log("The total is $" + totalAmount);
+}
+
+calculateTotal(4.50, .10);
+```
+In this example, 4.50 corresponds to price and .10 corresponds to salesTaxRate. The order the arguments are written is important, because it tells JavaScript which parameters they represent.
+
+### What Comes Out of a Function
+The output of a function is called its return value, and we use the return keyword inside the function to define the output.
+
+```JavaScript
+function calculateTotal(price, salesTaxRate) {
+   return (price + (price * salesTaxRate));
+}
+
+const total = calculateTotal(4.5, .10);
+```
+
+### Return vs. Console.log
+![Return and print](https://ga-instruction.s3.amazonaws.com/assets/tech/computer-science/intro-js/vending-machine.png)
+
+
+## Scope
+
+### Global Scope
+A globally scoped variable is one to which the entire program has access. Most of the variables we’ve defined so far have been global in scope. They’ve been defined outside of a function or specific code block, which means all scripts and functions on a webpage can access them.
+
+In the code below, the brother variable is a global variable because it’s defined on its own, outside of a specific function:
+```JavaScript
+const brother = "Phillip";
+
+function sayHello() {
+   console.log("Hello " + brother);
+}
+
+sayHello();   // brother can be accesed here
+
+console.log(brother);   // and brother can be accessed here
+```
+
+### Local Scope
+Conversely, a locally scoped variable is declared inside of a code block and can only be accessed by other members of the same code block. It cannot be referenced outside of that code block, which means it cannot be called or used outside of the braces in which it’s contained.
+
+```JavaScript
+function sayHello() {
+   const brother = "Phillip";
+   console.log("Hello " + brother);
+};
+
+sayHello();   // brother would be logged here...
+
+console.log(brother);   // but it can’t be accessed on its own here.
+```
+
+## The Arrow Function
+In newer versions of JavaScript, there’s another syntax for defining functions called arrow functions. Here’s the same function, written both with the function keyword and as an arrow function:
+
+```JavaScript
+// Older way:
+function calculateTotal(price, salesTaxRate) {
+   return (price + (price * salesTaxRate));
+}
+calculateTotal(4.5, .10);
+
+// Newer way:
+const calculateTotal = (price, salesTaxRate) => {
+   return (price + (price * salesTaxRate));
+}
+calculateTotal(4.5, .10);
+```
+
+# DOM - Document Object Model
+**Document:** The document is the webpage — typically the HTML document.
+
+**Object:** Every HTML element — <head>, <body>, or <p> — is an object. Because they’re objects, we can use methods and properties to change, delete, and add to them.
+
+**Model:** The model describes how the objects are laid out, often in a hierarchical tree. We call this the “DOM tree,” shown below. (You might see the terms “node,” “object,” or “element” all used interchangeably when referring to parts of the DOM.)
+
+![DOM](https://ga-instruction.s3.amazonaws.com/json/WDI-Fundamentals/assets/unit-11/Slide-17-DOM-Tree-Annotated.svg)
+
+The DOM powers a lot of the everyday interactions on webpages with which you might be familiar. Its four core capabilities are to:
+![DOM](https://ga-instruction.s3.amazonaws.com/assets/intro-tech/js-unit-assets/dom.png)
+
+### Get Content
+- The DOM allows you to get elements and content from a webpage.
+![get](https://ga-instruction.s3.amazonaws.com/json/WDI-Fundamentals/assets/unit-11/Slide-6-Form-Email.svg)
+
+### Set Content
+Maybe we want to change the text of the <h1> on the site, or perhaps we want to update the src attribute of an image when the user clicks a button. We can dynamically update any of the HTML, text content, or attributes of the elements on our page.
+
+### Add Effects
+Maybe we want a dropdown menu to expand when a user clicks on an icon. Or maybe we want a “Success” message to fade in when our user submits a form. Perhaps we want different images to fade in and out as a user scrolls down a page.
+
+### Create Event Listeners
+- We don’t always want the final state of our webpage to be the same as its initial state. Rather, it should respond to a user’s behavior on the page.
+- JavaScript allows us to react to a user’s actions by having the DOM “listen” or “wait” for a user to take action before we run a block of code.
+- For example, maybe we want a button to change color after the user clicks it. To do so, we’d attach an event listener to the button that’s triggered by a click.
+
+## Finding DOM Elements
+The first thing you have to do when working with the DOM is tell JavaScript what you’re looking for. Because HTML and JavaScript don’t talk directly to each other, you have to use special DOM methods to select the element you want to manipulate. You’re basically telling the DOM, “Go check out where this element is because we're probably doing something with it in a bit.” (You’ll also hear this referred to as “grabbing” elements in the DOM.)
+
+There are many methods for selecting specific DOM elements, but we’ll keep things simple by using these two:
+- document.querySelector(): Finds the first matching element.
+- document.querySelectorAll(): Finds all matching elements.
+The document written before the query is telling JavaScript to check out the HTML page (aka, the document). Information about the specific element you want to grab goes inside of the (). Let’s look at that next.
+
+### querySelector and querySelectorAll
+- document.querySelector('p')	- Grabs the first <p> in the document.
+- document.querySelector('.magic') - Grabs the first element with the class "magic" in the document.
+- document.querySelector('#hero')	- Grabs the first element with an ID of "hero" in the document.
+- document.querySelector('.magic p') - Grabs the first <p> inside an element with the class "magic".
+- document.querySelectorAll works in basically the same way, except it will grab ALL of the elements that match the query.
+
+### Manipulating the DOM
+
+Once you’ve grabbed an element from the DOM, you can access it, update it, and more. You can do many things with a DOM element.
+
+element.innerHTML	- Returns or sets the HTML content of the element.	- document.querySelector('h2').innerHTML = 'Hello there!'; updates the <h2> to read “Hello there!”.
+element.style	- Returns or sets the style attributes of the element.	- document.querySelector('h2').style.color = 'blue'; changes the color of the <h2> to blue.
+element.className	- Sets the class of the element.	- document.querySelector('h2').className = 'complete'; changes the class of the <h2> to complete.
+element.parentNode	- Returns the parent, or containing element, of the requested element.	- document.querySelector('h2').parentNode; returns the parent element of the <h2>.
+element.childNodes	- Returns all of the child nodes that an element contains. -	document.querySelector('h2').childNodes; returns the child nodes of the <h2>.
+
+### Getting, Setting, and Removing Attributes
+
+There are methods for DOM elements that can be used to get, update, or remove properties. An especially useful trio of methods is getAttribute(), setAttribute(), and removeAttribute(), which can read or write any HTML attribute of a DOM element. Let’s take a look:
+- const h1ID = document.querySelector('h1').getAttribute('id'); // This would store the ID attribute of the <h1> in the variable called h1ID.
+- document.querySelector('#title').setAttribute('class', 'blue'); // This would give the element with the ID of "title" a class of "blue."
+- document.querySelectorAll('p').removeAttribute('class'); // This would remove the class attribute from all <p> elements.
+
+```JavaScript
+const paragraph = document.createElement('p');
+paragraph.innerText = "Your passwords did not match.";
+paragraph.setAttribute("class", "registration-error");
+
+// This is what's created: <p class="registration-error">Your passwords did not match.</p>
+```
+Let’s break these steps down:
+- Create a JavaScript variable, paragraph.
+- Give that variable some information: the new element creation property, document.createElement('p'). Right now, this <p> has no content in it. Let’s add to it.
+- Use the innerHTML property to add text to the paragraph variable: "Your passwords did not match."
+- Use setAttribute() to give the paragraph a class of registration-error.
+
+# Responding to Browser Events
+
+### Event Listeners
+
+```JavaScript
+onload  // When the page loads.
+onclick  // When a user clicks something.
+onmouseover  // When a user hovers their mouse over something.
+onfocus  // When a user puts the cursor on a form field.
+```
+
+### onclick
+
+```JavaScript
+elementToGrab().onclick = function() {
+   // Code that should run
+};
+
+document.querySelector('#login').onclick = respondToLoginAttempt;
+
+```
+
+### addEventListener
+You can also add event listeners using a method called addEventListener(). Similar to onclick, this method tells elements to wait for something to happen in the browser and then execute a specific function when it does.
+
+```JavaScript
+function sayHello() {
+    console.log("Hello!");
+}
+```
+A key difference is that onclick will overwrite any previous click listeners on the element, whereas addEventListener() will preserve existing listeners.
+```JavaScript
+document.querySelector('button').addEventListener('click', sayHello);
+
+or
+
+document.querySelector('#login').addEventListener('click', respondToLoginAttempt);
+```
+
+### The Event Object
+When attaching functions as event listeners, you might want that function to use the element that was clicked. Maybe you want to grab the text that was clicked to store or update it.
+```JavaScript
+document.querySelector('#disappearing-button').onclick = function(e) {
+    console.log(e.target);
+    e.target.remove();
+}
+```
