@@ -1,5 +1,4 @@
 [Course project](https://app.codesignal.com/challenge/Ys49PjLyoRCgB3m9D)
-
 ---
 # Introduction to HTML
 
