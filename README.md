@@ -51,7 +51,6 @@
 # Completed
 ### [IBM - Data Science Foundations](https://cognitiveclass.ai/learn/data-science/)
 
-## Intro to Computer Science
 ### Microsoft - Software Engineer
 1. [Logic and Computational Thinking](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/0.%20Logic%20and%20Computational%20Thinking)
 2. [Python Beginner](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/1.%20Python%20Beginner)
