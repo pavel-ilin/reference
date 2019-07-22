@@ -10,6 +10,7 @@
 4. [Using Databases with Python](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/4.%20Using%20Databases%20with%20Python) - Done
 5. Capstone: Retrieving, Processing, and Visualizing Data with Python - In progress
 - Harvard: CS50 - in progress
+### [IBM - Python for Data Science](https://cognitiveclass.ai/learn/data-science-with-python/)
 
 ## [Microsoft AI program](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
 - Introduction to Artificial Intelligence (AI) - Done
@@ -44,12 +45,7 @@
 ---
 
 # Completed
-
-### IBM - Data Science Foundations
-- Introduction to Data Science
-- Data Science Tools
-- Data Science Methodology
-- Python for Data Science
+### [IBM - Data Science Foundations](https://cognitiveclass.ai/learn/data-science/)
 
 ## Intro to Computer Science
 ### Microsoft - Software Engineer
