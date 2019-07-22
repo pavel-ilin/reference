@@ -1,4 +1,4 @@
-# CS_Education
+# Education
 
 ## In progress
 
