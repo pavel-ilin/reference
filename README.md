@@ -41,6 +41,8 @@
 - Khan Academy Multivariable Calculus
 - Khan Academy Statistics and Probability
 
+---
+
 # Completed
 
 ### IBM - Data Science Foundations
