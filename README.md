@@ -1,3 +1,3 @@
-# CS_Education
+# Education
 
 Keep growing
