@@ -23,20 +23,6 @@
 - Develop Applied AI Solutions - next
 - Final Project - next
 
-# Completed
-
-### IBM - Data Science Foundations
-- Introduction to Data Science
-- Data Science Tools
-- Data Science Methodology
-- Python for Data Science
-
-## Intro to Computer Science
-### Microsoft - Software Engineer
-1. [Logic and Computational Thinking](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/0.%20Logic%20and%20Computational%20Thinking)
-2. [Python Beginner](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/1.%20Python%20Beginner)
-3. [Python Fundamentals](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/2.%20Python%20Fundamentals)
-
 # Next
 - Automate the Boring Stuff with Python
 - Introduction to Algorithms
@@ -54,3 +40,17 @@
 - Khan Academy Linear Algebra
 - Khan Academy Multivariable Calculus
 - Khan Academy Statistics and Probability
+
+# Completed
+
+### IBM - Data Science Foundations
+- Introduction to Data Science
+- Data Science Tools
+- Data Science Methodology
+- Python for Data Science
+
+## Intro to Computer Science
+### Microsoft - Software Engineer
+1. [Logic and Computational Thinking](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/0.%20Logic%20and%20Computational%20Thinking)
+2. [Python Beginner](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/1.%20Python%20Beginner)
+3. [Python Fundamentals](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/2.%20Python%20Fundamentals)
