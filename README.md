@@ -12,9 +12,9 @@
 ### Harvard: CS50 - in progress
 
 ## [IBM - Python for Data Science](https://cognitiveclass.ai/learn/data-science-with-python/)
-1. [Python for Data Science](https://github.com/Refugee-Studio/Education/tree/master/IBM%20Data%20Science/1.%20Python%20for%20Data%20Science)
-2. Data Analysis with Python
-3. Data Visualization with Python
+1. [Python for Data Science](https://github.com/Refugee-Studio/Education/tree/master/IBM%20Data%20Science/1.%20Python%20for%20Data%20Science) - done
+2. Data Analysis with Python - next
+3. Data Visualization with Python - next
 
 ## [Microsoft AI program](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
 1. Introduction to Artificial Intelligence (AI) - Done
