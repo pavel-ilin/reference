@@ -50,3 +50,7 @@ Add credentials
  git config --global user.name 'Your name'
  git config --global user.email 'Your email'
 ```
+Remove conficts
+```
+git mergetool
+```
