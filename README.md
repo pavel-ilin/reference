@@ -9,7 +9,7 @@
 3. [Using Python to Access Web Data](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/3.%20Using%20Python%20to%20Access%20Web%20Data) - Done
 4. [Using Databases with Python](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/4.%20Using%20Databases%20with%20Python) - Done
 5. Capstone: Retrieving, Processing, and Visualizing Data with Python - In progress
-- Harvard: CS50 - in progress
+### Harvard: CS50 - in progress
 
 ## [IBM - Python for Data Science](https://cognitiveclass.ai/learn/data-science-with-python/)
 1. [Python for Data Science](https://github.com/Refugee-Studio/Education/tree/master/IBM%20Data%20Science/1.%20Python%20for%20Data%20Science)
