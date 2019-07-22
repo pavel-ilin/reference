@@ -3,7 +3,7 @@
 # In progress
 
 ## Intro to Computer Science
-### Python programming specialization
+### [Python programming specialization](https://www.coursera.org/specializations/python)
 1. [Programming for Everybody](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/1.%20Programming%20for%20Everybody) - Done
 2. [Python Data Structures](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/2.%20Python%20Data%20Structures) - Done
 3. [Using Python to Access Web Data](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/3.%20Using%20Python%20to%20Access%20Web%20Data) - Done
@@ -11,7 +11,7 @@
 5. Capstone: Retrieving, Processing, and Visualizing Data with Python - In progress
 - Harvard: CS50 - in progress
 
-## Microsoft AI program
+## [Microsoft AI program](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
 - Introduction to Artificial Intelligence (AI) - Done
 - Introduction to Python for Data Science - In progress
 - Essential Mathematics for Artificial Intelligence - next
