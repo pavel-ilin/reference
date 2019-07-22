@@ -1,9 +1,9 @@
 # Self-Education process
 
-## In progress
+# In progress
 
 ## Intro to Computer Science
-- Python programming specialization
+### Python programming specialization
 1. [Programming for Everybody](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/1.%20Programming%20for%20Everybody) - Done
 2. [Python Data Structures](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/2.%20Python%20Data%20Structures) - Done
 3. [Using Python to Access Web Data](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/3.%20Using%20Python%20to%20Access%20Web%20Data) - Done
@@ -23,13 +23,19 @@
 - Develop Applied AI Solutions - next
 - Final Project - next
 
-## Completed
+# Completed
 
-### IBM - Data Science Foundations - Done
-- Introduction to Data Science - Done
-- Data Science Tools - Done
-- Data Science Methodology - Done
-- Python for Data Science - Done
+### IBM - Data Science Foundations
+- Introduction to Data Science
+- Data Science Tools
+- Data Science Methodology
+- Python for Data Science
+
+## Intro to Computer Science
+### Microsoft - Software Engineer
+1. [Logic and Computational Thinking](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/0.%20Logic%20and%20Computational%20Thinking)
+2. [Python Beginner](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/1.%20Python%20Beginner)
+3. [Python Fundamentals](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/2.%20Python%20Fundamentals)
 
 # Next
 - Automate the Boring Stuff with Python
