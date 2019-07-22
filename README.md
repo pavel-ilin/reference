@@ -26,7 +26,22 @@
 7. Build Deep Learning Models - next
 8. Build Reinforcement Learning Models - next
 9. Develop Applied AI Solutions - next
-10. Final Project - next
+10. Microsoft Professional Capstone : Artificial Intelligence - next
+
+### [Microsoft - Software Engineer](https://academy.microsoft.com/en-us/professional-program/tracks/entry-level-software-development/)
+1. [Logic and Computational Thinking](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/0.%20Logic%20and%20Computational%20Thinking) - Done
+2. [Python Beginner](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/1.%20Python%20Beginner) - Done
+3. [Python Fundamentals](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/2.%20Python%20Fundamentals) - Done
+4. Designing a Technical Solution - next
+5. Building Interactive Prototypes using JavaScript - next
+6. Building Functional Prototypes using Node.js - next
+7. Learn to Program in Java - next
+8. Object Oriented Programming in Java - next
+9. Algorithms and Data Structures - next
+10. Writing Professional Code - next
+11. Introduction to Design Thinking - next
+12. Introduction to Developing International Software - next
+13. Microsoft Professional Capstone : Entry Level Software Development - next
 
 # Next
 - Automate the Boring Stuff with Python
@@ -48,10 +63,6 @@
 
 ---
 
-# Completed
+# Complete
 ### [IBM - Data Science Foundations](https://cognitiveclass.ai/learn/data-science/)
 
-### [Microsoft - Software Engineer](https://academy.microsoft.com/en-us/professional-program/tracks/entry-level-software-development/)
-1. [Logic and Computational Thinking](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/0.%20Logic%20and%20Computational%20Thinking)
-2. [Python Beginner](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/1.%20Python%20Beginner)
-3. [Python Fundamentals](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/2.%20Python%20Fundamentals)
