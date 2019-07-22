@@ -1,4 +1,4 @@
-# Education
+# Self-Education process
 
 ## In progress
 
