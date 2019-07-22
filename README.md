@@ -10,19 +10,23 @@
 4. [Using Databases with Python](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/4.%20Using%20Databases%20with%20Python) - Done
 5. Capstone: Retrieving, Processing, and Visualizing Data with Python - In progress
 - Harvard: CS50 - in progress
-### [IBM - Python for Data Science](https://cognitiveclass.ai/learn/data-science-with-python/)
+
+## [IBM - Python for Data Science](https://cognitiveclass.ai/learn/data-science-with-python/)
+1. [Python for Data Science](https://github.com/Refugee-Studio/Education/tree/master/IBM%20Data%20Science/1.%20Python%20for%20Data%20Science)
+2. Data Analysis with Python
+3. Data Visualization with Python
 
 ## [Microsoft AI program](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
-- Introduction to Artificial Intelligence (AI) - Done
-- Introduction to Python for Data Science - In progress
-- Essential Mathematics for Artificial Intelligence - next
-- Ethics and Law in Data and Analytics - next
-- Data Science Essentials - next
-- Build Machine Learning Models - next
-- Build Deep Learning Models - next
-- Build Reinforcement Learning Models - next
-- Develop Applied AI Solutions - next
-- Final Project - next
+1. Introduction to Artificial Intelligence (AI) - Done
+2. Introduction to Python for Data Science - In progress
+3. Essential Mathematics for Artificial Intelligence - next
+4. Ethics and Law in Data and Analytics - next
+5. Data Science Essentials - next
+6. Build Machine Learning Models - next
+7. Build Deep Learning Models - next
+8. Build Reinforcement Learning Models - next
+9. Develop Applied AI Solutions - next
+10. Final Project - next
 
 # Next
 - Automate the Boring Stuff with Python
