@@ -28,7 +28,7 @@
 9. Develop Applied AI Solutions - next
 10. Microsoft Professional Capstone : Artificial Intelligence - next
 
-### [Microsoft - Software Engineer](https://academy.microsoft.com/en-us/professional-program/tracks/entry-level-software-development/)
+## [Microsoft - Software Engineer](https://academy.microsoft.com/en-us/professional-program/tracks/entry-level-software-development/)
 1. [Logic and Computational Thinking](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/0.%20Logic%20and%20Computational%20Thinking) - Done
 2. [Python Beginner](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/1.%20Python%20Beginner) - Done
 3. [Python Fundamentals](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/2.%20Python%20Fundamentals) - Done
@@ -52,6 +52,8 @@
 - Software Development Processes and Methodologies
 - Google Cloud Data Professional Specialization
 - fast.ai
+- [CS50's Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
+
 
 ## Math
 - Mathematics for Computer Science
