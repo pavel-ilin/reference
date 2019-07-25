@@ -2,7 +2,6 @@
 
 # In progress
 
-## Intro to Computer Science
 ### [Python programming specialization](https://www.coursera.org/specializations/python)
 1. [Programming for Everybody](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/1.%20Programming%20for%20Everybody) - Done
 2. [Python Data Structures](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/2.%20Python%20Data%20Structures) - Done
