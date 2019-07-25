@@ -2,30 +2,14 @@
 
 # In progress
 
-### [Python programming specialization](https://www.coursera.org/specializations/python)
+### [Harvard: CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) - in progress
+
+## [Python programming specialization](https://www.coursera.org/specializations/python)
 1. [Programming for Everybody](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/1.%20Programming%20for%20Everybody) - Done
 2. [Python Data Structures](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/2.%20Python%20Data%20Structures) - Done
 3. [Using Python to Access Web Data](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/3.%20Using%20Python%20to%20Access%20Web%20Data) - Done
 4. [Using Databases with Python](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/4.%20Using%20Databases%20with%20Python) - Done
 5. Capstone: Retrieving, Processing, and Visualizing Data with Python - In progress
-### Harvard: CS50 - in progress
-
-## [IBM - Python for Data Science](https://cognitiveclass.ai/learn/data-science-with-python/)
-1. [Python for Data Science](https://github.com/Refugee-Studio/Education/tree/master/IBM%20Data%20Science/1.%20Python%20for%20Data%20Science) - done
-2. Data Analysis with Python - next
-3. Data Visualization with Python - next
-
-## [Microsoft AI program](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
-1. Introduction to Artificial Intelligence (AI) - Done
-2. Introduction to Python for Data Science - In progress
-3. Essential Mathematics for Artificial Intelligence - next
-4. Ethics and Law in Data and Analytics - next
-5. Data Science Essentials - next
-6. Build Machine Learning Models - next
-7. Build Deep Learning Models - next
-8. Build Reinforcement Learning Models - next
-9. Develop Applied AI Solutions - next
-10. Microsoft Professional Capstone : Artificial Intelligence - next
 
 ## [Microsoft - Software Engineer](https://academy.microsoft.com/en-us/professional-program/tracks/entry-level-software-development/)
 1. [Logic and Computational Thinking](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/0.%20Logic%20and%20Computational%20Thinking) - Done
@@ -41,6 +25,23 @@
 11. Introduction to Design Thinking - next
 12. Introduction to Developing International Software - next
 13. Microsoft Professional Capstone : Entry Level Software Development - next
+
+## [IBM - Python for Data Science](https://cognitiveclass.ai/learn/data-science-with-python/)
+1. [Python for Data Science](https://github.com/Refugee-Studio/Education/tree/master/IBM%20Data%20Science/1.%20Python%20for%20Data%20Science) - done
+2. Data Analysis with Python - next
+3. Data Visualization with Python - next
+
+## [Microsoft - AI program](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
+1. Introduction to Artificial Intelligence (AI) - Done
+2. Introduction to Python for Data Science - In progress
+3. Essential Mathematics for Artificial Intelligence - next
+4. Ethics and Law in Data and Analytics - next
+5. Data Science Essentials - next
+6. Build Machine Learning Models - next
+7. Build Deep Learning Models - next
+8. Build Reinforcement Learning Models - next
+9. Develop Applied AI Solutions - next
+10. Microsoft Professional Capstone : Artificial Intelligence - next
 
 # Next
 - Automate the Boring Stuff with Python
