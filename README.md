@@ -2,8 +2,6 @@
 
 # In progress
 
-### [Harvard: CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) - in progress
-
 ## [Python programming specialization](https://www.coursera.org/specializations/python)
 1. [Programming for Everybody](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/1.%20Programming%20for%20Everybody) - Done
 2. [Python Data Structures](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/2.%20Python%20Data%20Structures) - Done
@@ -44,6 +42,9 @@
 10. Microsoft Professional Capstone : Artificial Intelligence - next
 
 # Next
+## Computer Science
+- [Harvard: CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+- [CS50's Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
 - Automate the Boring Stuff with Python
 - Introduction to Algorithms
 - Applied Data Science with Python Specialization
@@ -52,7 +53,6 @@
 - Software Development Processes and Methodologies
 - Google Cloud Data Professional Specialization
 - fast.ai
-- [CS50's Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
 
 
 ## Math
