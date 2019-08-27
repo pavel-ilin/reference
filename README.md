@@ -23,8 +23,8 @@
 3. Data Visualization with Python - next
 
 ## [Microsoft - AI program](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
-1. Introduction to Artificial Intelligence (AI) - Done
-2. Introduction to Python for Data Science - In progress
+1. [Introduction to Artificial Intelligence](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Artificial%20Intelligence/1.%20Introduction%20to%20Artificial%20Intelligence%20(AI)) - Done
+2. [Introduction to Python for Data Science](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Artificial%20Intelligence/2.%20Introduction%20to%20Python%20for%20Data%20Science) - In progress
 3. Essential Mathematics for Artificial Intelligence - next
 4. Ethics and Law in Data and Analytics - next
 5. Data Science Essentials - next
