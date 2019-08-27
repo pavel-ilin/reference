@@ -65,4 +65,4 @@
 2. [Python Data Structures](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/2.%20Python%20Data%20Structures) - Done
 3. [Using Python to Access Web Data](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/3.%20Using%20Python%20to%20Access%20Web%20Data) - Done
 4. [Using Databases with Python](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/4.%20Using%20Databases%20with%20Python) - Done
-5. [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization) - Done
+5. [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/5.%20Capstone%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python) - Done
