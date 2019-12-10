@@ -45,11 +45,7 @@ Verifies the new remote URL
 ```
 git remote -v
 ```
-Add credentials
-```
- git config --global user.name 'Your name'
- git config --global user.email 'Your email'
-```
+
 Remove conficts
 ```
 git mergetool
@@ -59,18 +55,23 @@ git mergetool
 
 ## Install git
 
-- install git
-- ssh-keygen (create a new SSH key)
-- cat ~/.ssh/id_rsa.pub (display your SSH key to your terminal)
-
+```
+install git
+ssh-keygen (create a new SSH key)
+cat ~/.ssh/id_rsa.pub (display your SSH key to your terminal)
+```
 - add SSH key in github
 
 ## Configure git globally
 
 Identity:
-- git config --global user.email "you@example.com"
-- git config --global user.name "Your Name"
+```
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+```
 
 Credentials:
-- git config --global credential.username my_username
-- git config --global credential.password password
+```
+git config --global credential.username my_username
+git config --global credential.password password
+```
