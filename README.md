@@ -2,9 +2,6 @@
 
 # In progress
 
-## [Flatiron School](https://flatironschool.com/career-courses/coding-bootcamp)
-- Offline bootcamp
-
 ## [Microsoft - Software Engineer](https://academy.microsoft.com/en-us/professional-program/tracks/entry-level-software-development/)
 1. [Logic and Computational Thinking](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/0.%20Logic%20and%20Computational%20Thinking) - Done
 2. [Python Beginner](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/1.%20Python%20Beginner) - Done
@@ -61,6 +58,10 @@
 ---
 
 # Complete
+
+## [Flatiron School](https://flatironschool.com/career-courses/coding-bootcamp)
+- Offline bootcamp
+
 ## [IBM - Data Science Foundations](https://cognitiveclass.ai/learn/data-science/)
 1. [Introduction to Data Science](https://courses.cognitiveclass.ai/certificates/user/1032905/course/course-v1:BigDataUniversity+DS0101EN+2016)
 2. [Data Science Tools](https://courses.cognitiveclass.ai/certificates/user/1032905/course/course-v1:CognitiveClass+DS0105EN+v2)
