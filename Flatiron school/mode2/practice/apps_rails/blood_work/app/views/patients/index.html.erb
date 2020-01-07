@@ -1,0 +1,10 @@
+<p>Welcome to our crippled healthcare system:</p>
+<% @patients.each do |patient|%>
+<ul>
+<li><%= link_to patient.name, patient %></li>
+</ul>
+<% end %>
+
+<p><%= link_to "Create new patient", new_patient_path %></p>
+<p><%= link_to "All patients", patients_path %></p>
+<p><%= link_to "Back to home page", welcome_index_path %></p>

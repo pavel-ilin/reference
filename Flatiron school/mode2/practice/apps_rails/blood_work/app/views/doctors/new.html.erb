@@ -1,0 +1,24 @@
+<h3>Create new doctor</h3>
+
+<%= form_for @doctor do |f| %>
+
+  <% if flash[:errors] %>
+    <% flash[:errors].each do |msg|%>
+    <p><%= msg %></p>
+    <% end %>
+  <% end %>
+
+
+  <br>
+  <%= f.label :name %>
+  <%= f.text_field :name %>
+  <br>
+  <%= f.label :password %>
+  <%= f.text_field :password %>
+  <br>
+  <%= f.label :doctor_spec %>
+  <%= f.text_field :doctor_spec %>
+  <br>
+  <%= f.submit %><br>
+
+<% end %>

@@ -1,0 +1,10 @@
+<% @doctors.each do |doctor|%>
+<ul>
+<li><%= link_to doctor.name, doctor %></li>
+</ul>
+<% end %>
+<br>
+
+<p><%= link_to "Create new doctor", new_doctor_path %></p>
+<p><%= link_to "All doctors", doctors_path %></p>
+<p><%= link_to "Back to home page", welcome_index_path %></p>

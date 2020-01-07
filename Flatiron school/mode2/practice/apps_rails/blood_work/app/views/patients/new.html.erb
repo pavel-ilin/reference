@@ -1,0 +1,25 @@
+<%= form_for @patient do |f| %>
+<h3>Create new patient</h3>
+  <br>
+  <%= f.label :name %>
+  <%= f.text_field :name %>
+<br>
+  <%= f.label :password %>
+  <%= f.password_field :password %>
+<br>
+  <%= f.label :gender %>
+  <%= f.text_field :gender %>
+<br>
+  <%= f.label :age %>
+  <%= f.number_field :age %>
+<br>
+  <%= f.label :doctor_id %>
+  <%= f.collection_select(:doctor_id, @doctors, :id, :name, prompt: true ) %>
+
+<br>
+  <%= f.submit %><br>
+<% end %>
+
+
+<%= link_to "All patients", patients_path %>
+

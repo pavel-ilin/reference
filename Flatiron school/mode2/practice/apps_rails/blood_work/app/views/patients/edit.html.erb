@@ -1,0 +1,24 @@
+<h3>Edit information about <%= @patient.name %></h3>
+
+<%= form_for @patient do |f| %>
+  <br>
+  <%= f.label :name %>
+  <%= f.text_field :name %>
+  <br>
+  <%= f.label :password %>
+  <%= f.text_field :password %>
+  <br>
+  <%= f.label :age %>
+  <%= f.text_field :age %>
+  <br>
+  <%= f.label :gender %>
+  <%= f.text_field :gender %>
+  <br>
+  <!-- Add "Chenge doctor" -->
+  <%= f.submit %><br>
+
+<% end %>
+
+<br>
+
+<%= button_to "delete", @patient, :method => :delete %>

@@ -1,0 +1,14 @@
+<p>Name: <%= @doctor.name %></p>
+<p>Doctor specialization: <%= @doctor.doctor_spec %></p>
+<% @doctor.patients.each do |patient| %>
+  <li><%= link_to patient.name, patient%></li>
+<%end%>
+
+<br>
+<%= link_to "Edit doctors info", edit_doctor_path	%>
+<br>
+<%= button_to "Delete account", @doctor, :method => :delete %>
+<br>
+<%= link_to "All doctors", doctors_path %>
+
+<p><%= link_to "Schedule new appointment", new_appointment_path %></p>

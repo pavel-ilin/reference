@@ -1,0 +1,27 @@
+<%= form_for @result do |f| %>
+<h3>Let's check your wellbeing</h3>
+  <br>
+  <%= f.label :date %>
+  <%= f.date_field :date %>
+<br>
+  <%= f.label :systolic %>
+  <%= f.number_field :systolic %>
+<br>
+  <%= f.label :diastolic %>
+  <%= f.number_field :diastolic %>
+<br>
+  <%= f.label :weight %>
+  <%= f.number_field :weight, step: 0.1 %>
+<br>
+  <%= f.label :temperature %>
+  <%= f.number_field :temperature, step: 0.1 %>
+<br>
+  <%= f.label :patient_id %>
+  <%= f.collection_select(:patient_id, @patients, :id, :name, prompt: true ) %>
+
+<p><%= f.submit "Submit test results"%><br></p>
+<% end %>
+
+<br>
+<%= link_to "All patients", patients_path %>
+

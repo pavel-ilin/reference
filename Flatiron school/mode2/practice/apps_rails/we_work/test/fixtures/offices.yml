@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  building: one
+  company: one
+  floor: 1
+
+two:
+  building: two
+  company: two
+  floor: 1

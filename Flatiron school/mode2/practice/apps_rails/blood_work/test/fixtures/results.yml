@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2019-10-14 10:11:52
+  systolic: 1
+  diastolic: 1
+  weight: 1.5
+  temperature: 1.5
+  patient: one
+
+two:
+  date: 2019-10-14 10:11:52
+  systolic: 1
+  diastolic: 1
+  weight: 1.5
+  temperature: 1.5
+  patient: two

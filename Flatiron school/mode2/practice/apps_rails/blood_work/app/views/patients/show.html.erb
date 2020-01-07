@@ -1,0 +1,25 @@
+<p>Hello <%= @patient.name %></p>
+<br>
+<%= link_to "Edit patient info", edit_patient_path	%>
+<br>
+<%= button_to "Delete account", @patient, :method => :delete %>
+<br>
+<%= link_to "All patients", patients_path %>
+
+<p><%= link_to "Schedule new appointment", new_appointment_path %></p>
+<p><%= link_to "Test your health", new_result_path %></p>
+
+<h2>My appointments</h2>
+<% @appointments.each do |appointment| %>
+  <p>Your appointment at <%= appointment.date %>, with doctor: <%= appointment.doctor.name %></p>
+<% end %>
+
+<h2>My tests results</h2>
+
+<% @results.each do |result| %>
+  <p>============</p>
+  <p>Test date: <%= result.date %></p>
+  <p>Blood presure - Systolic: <%= result.systolic %>, Diastolic: <%= result.diastolic %></p>
+  <p>Weight: <%= result.weight %>, Temperature: <%= result.temperature %></p>
+<% end %>
+
