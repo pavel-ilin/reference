@@ -62,8 +62,8 @@
 ## [Flatiron School](https://flatironschool.com/career-courses/coding-bootcamp)
 1. [Ruby OOP](https://github.com/pavel-ilin/Education/tree/master/Flatiron%20school/mode1)
 2. [Ruby on Rails](https://github.com/pavel-ilin/Education/tree/master/Flatiron%20school/mode2)
-3. [JavaScript] (https://github.com/pavel-ilin/Education/tree/master/Flatiron%20school/mode3)
-4. [React] (https://github.com/pavel-ilin/Education/tree/master/Flatiron%20school/mode4)
+3. [JavaScript](https://github.com/pavel-ilin/Education/tree/master/Flatiron%20school/mode3)
+4. [React](https://github.com/pavel-ilin/Education/tree/master/Flatiron%20school/mode4)
 
 ## [IBM - Data Science Foundations](https://cognitiveclass.ai/learn/data-science/)
 1. [Introduction to Data Science](https://courses.cognitiveclass.ai/certificates/user/1032905/course/course-v1:BigDataUniversity+DS0101EN+2016)
