@@ -1,0 +1,10 @@
+<h1>These are some cool students:</h1>
+
+<%= button_to "New Name", new_student_path, method: :get %>
+
+
+<ul>
+  <% @students.each do |student| %>
+    <li> <%= link_to student.name, student %> </li>
+  <% end %>
+</ul>
