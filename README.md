@@ -2,9 +2,9 @@
 
 # In progress
 
-- [Harvard: CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+- [Harvard: CS50](https://github.com/pavel-ilin/education/tree/master/Harvard%20University/CS50)
 
-- [CS50's Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
+- [CS50's Web Programming with Python and JavaScript](https://github.com/pavel-ilin/education/tree/master/Harvard%20University/CS50's%20Web%20Programming%20with%20Python%20and%20JavaScript)
 
 # Next
 ## Computer Science
