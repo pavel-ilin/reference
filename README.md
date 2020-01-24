@@ -63,5 +63,5 @@
 4. [Using Databases with Python](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/4.%20Using%20Databases%20with%20Python)
 5. [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/5.%20Capstone%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python)
 
-## [Free Code Camp](www.freecodecamp.org)
+## [Free Code Camp](https://www.freecodecamp.org)
 1. [HTML and CSS](https://github.com/pavel-ilin/education/tree/master/FreeCodeCamp/HTML_CSS)
