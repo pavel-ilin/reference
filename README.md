@@ -6,7 +6,7 @@
 
 - [CS50's Web Programming with Python and JavaScript](https://github.com/pavel-ilin/education/tree/master/Harvard%20University/CS50's%20Web%20Programming%20with%20Python%20and%20JavaScript)
 
-- [Free Code Camp - JavaScript]()
+- [Free Code Camp - JavaScript](https://github.com/pavel-ilin/education/tree/master/FreeCodeCamp/JavaScript)
 
 # Next
 ## Computer Science
@@ -62,3 +62,6 @@
 3. [Using Python to Access Web Data](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/3.%20Using%20Python%20to%20Access%20Web%20Data)
 4. [Using Databases with Python](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/4.%20Using%20Databases%20with%20Python)
 5. [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/5.%20Capstone%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python)
+
+## [Free Code Camp](www.freecodecamp.org)
+1. [HTML and CSS](https://github.com/pavel-ilin/education/tree/master/FreeCodeCamp/HTML_CSS)
