@@ -2,42 +2,12 @@
 
 # In progress
 
-## [Microsoft - Software Engineer](https://academy.microsoft.com/en-us/professional-program/tracks/entry-level-software-development/)
-1. [Logic and Computational Thinking](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/0.%20Logic%20and%20Computational%20Thinking) - Done
-2. [Python Beginner](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/1.%20Python%20Beginner) - Done
-3. [Python Fundamentals](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/2.%20Python%20Fundamentals) - Done
-4. Designing a Technical Solution - next
-5. Building Interactive Prototypes using JavaScript - next
-6. Building Functional Prototypes using Node.js - next
-7. Learn to Program in Java - next
-8. Object Oriented Programming in Java - next
-9. Algorithms and Data Structures - next
-10. Writing Professional Code - next
-11. Introduction to Design Thinking - next
-12. Introduction to Developing International Software - next
-13. Microsoft Professional Capstone : Entry Level Software Development - next
+- [Harvard: CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
 
-## [Microsoft - AI program](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
-1. [Introduction to Artificial Intelligence](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Artificial%20Intelligence/1.%20Introduction%20to%20Artificial%20Intelligence%20(AI)) - Done
-2. [Introduction to Python for Data Science](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Artificial%20Intelligence/2.%20Introduction%20to%20Python%20for%20Data%20Science) - Done
-3. Essential Mathematics for Artificial Intelligence - next
-4. Ethics and Law in Data and Analytics - next
-5. Data Science Essentials - next
-6. Build Machine Learning Models - next
-7. Build Deep Learning Models - next
-8. Build Reinforcement Learning Models - next
-9. Develop Applied AI Solutions - next
-10. Microsoft Professional Capstone : Artificial Intelligence - next
-
-## [IBM - Python for Data Science](https://cognitiveclass.ai/learn/data-science-with-python/)
-1. [Python for Data Science](https://github.com/Refugee-Studio/Education/tree/master/IBM%20Data%20Science/1.%20Python%20for%20Data%20Science) - done
-2. Data Analysis with Python - next
-3. Data Visualization with Python - next
+- [CS50's Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
 
 # Next
 ## Computer Science
-- [Harvard: CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
-- [CS50's Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
 - Automate the Boring Stuff with Python
 - Introduction to Algorithms
 - Applied Data Science with Python Specialization
@@ -46,6 +16,11 @@
 - Software Development Processes and Methodologies
 - Google Cloud Data Professional Specialization
 - fast.ai
+
+## [IBM - Python for Data Science](https://cognitiveclass.ai/learn/data-science-with-python/)
+1. [Python for Data Science](https://github.com/Refugee-Studio/Education/tree/master/IBM%20Data%20Science/1.%20Python%20for%20Data%20Science) - done
+2. Data Analysis with Python - next
+3. Data Visualization with Python - next
 
 ## Math
 - Mathematics for Computer Science
@@ -64,6 +39,15 @@
 2. [Ruby on Rails](https://github.com/pavel-ilin/Education/tree/master/Flatiron%20school/mode2)
 3. [JavaScript](https://github.com/pavel-ilin/Education/tree/master/Flatiron%20school/mode3)
 4. [React](https://github.com/pavel-ilin/Education/tree/master/Flatiron%20school/mode4)
+
+## [Microsoft - Software Engineer - program retired](https://academy.microsoft.com/en-us/professional-program/tracks/entry-level-software-development/)
+1. [Logic and Computational Thinking](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/0.%20Logic%20and%20Computational%20Thinking) - Done
+2. [Python Beginner](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/1.%20Python%20Beginner) - Done
+3. [Python Fundamentals](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/2.%20Python%20Fundamentals) - Done
+
+## [Microsoft - AI program - program retired](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
+1. [Introduction to Artificial Intelligence](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Artificial%20Intelligence/1.%20Introduction%20to%20Artificial%20Intelligence%20(AI)) - Done
+2. [Introduction to Python for Data Science](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Artificial%20Intelligence/2.%20Introduction%20to%20Python%20for%20Data%20Science) - Done
 
 ## [IBM - Data Science Foundations](https://cognitiveclass.ai/learn/data-science/)
 1. [Introduction to Data Science](https://courses.cognitiveclass.ai/certificates/user/1032905/course/course-v1:BigDataUniversity+DS0101EN+2016)
