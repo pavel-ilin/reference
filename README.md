@@ -49,7 +49,7 @@
 1. [Introduction to Artificial Intelligence](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Artificial%20Intelligence/1.%20Introduction%20to%20Artificial%20Intelligence%20(AI)) - Done
 2. [Introduction to Python for Data Science](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Artificial%20Intelligence/2.%20Introduction%20to%20Python%20for%20Data%20Science) - Done
 
-## [IBM - Data Science Foundations](https://cognitiveclass.ai/learn/data-science/)
+## [IBM - Data Science Foundations](https://github.com/pavel-ilin/education/tree/master/IBM%20Data%20Science)
 1. [Introduction to Data Science](https://courses.cognitiveclass.ai/certificates/user/1032905/course/course-v1:BigDataUniversity+DS0101EN+2016)
 2. [Data Science Tools](https://courses.cognitiveclass.ai/certificates/user/1032905/course/course-v1:CognitiveClass+DS0105EN+v2)
 3. [Data Science Methodology](https://courses.cognitiveclass.ai/certificates/user/1032905/course/course-v1:CognitiveClass+DS0103EN+v3)
