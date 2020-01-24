@@ -1,0 +1,46 @@
+{
+  "to_do_items": [
+    {
+      "title": "Remember to give a break",
+      "done": true,
+      "id": 6
+    },
+    {
+      "title": "Make Fetch Happen",
+      "done": true,
+      "id": 7
+    },
+    {
+      "title": "Trust Ali",
+      "done": true,
+      "id": 8
+    }
+  ],
+  "snacks": [
+    {
+      "name": "Cinnamon",
+      "yumminess": 5,
+      "id": 1
+    },
+    {
+      "name": "Nutella",
+      "yumminess": 10,
+      "id": 2
+    },
+    {
+      "yumminess": 12,
+      "name": "pizza",
+      "id": 3
+    },
+    {
+      "yumminess": 15,
+      "name": "lunchables",
+      "id": 4
+    },
+    {
+      "name": "Oreos",
+      "yumminess": 12,
+      "id": 6
+    }
+  ]
+}

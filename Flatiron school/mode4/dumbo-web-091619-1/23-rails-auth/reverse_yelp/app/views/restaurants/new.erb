@@ -1,0 +1,32 @@
+<%= render "shared/heading", title: "Sign Up as a New Resto" %>
+
+<%= form_for @restaurant, html: { class: "form" } do |f| %>
+
+  <%= f.label :username %>
+  <%= f.text_field :username %>
+
+  <%= f.label :password %>
+  <%= f.password_field :password %>
+
+  <%= f.label :name %>
+  <%= f.text_field :name %>
+
+  <%= f.label :address %>
+  <%= f.text_area :address %>
+  
+  <%= f.label :rating %>
+  <%= f.number_field :rating %>
+  
+  <%= f.label :image_url %>
+  <%= f.text_field :image_url %>
+
+  <% if flash[:errors] %>
+    <ul>
+      <% flash[:errors].each do |error| %>
+        <li class="error"><%= error %></li>
+      <% end %>
+    </ul>
+  <% end %>
+
+  <%= f.submit class: "button" %>
+<% end %>
