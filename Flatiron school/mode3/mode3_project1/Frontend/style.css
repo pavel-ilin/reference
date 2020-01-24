@@ -1,0 +1,112 @@
+li {
+  list-style-type:none;
+  margin: 1%;
+
+}
+
+#products-menue{
+  display: flex;
+}
+
+#display-product{
+}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 5% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 50%; /* Could be more or less, depending on screen size */
+
+}
+
+/* The Close Button */
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#add-product {
+  width: 18%;
+}
+
+#front-img1 {
+  margin-left: 10%;
+
+}
+
+#footer {
+  background-color: cornflowerblue;
+  height: 100px;
+  margin-top: 10px;
+  font-family: cursive, "Apple Chancery";
+}
+
+#footer-credits {
+  margin-top: 40px;
+}
+
+#welcome{
+  /* font-family: "Comic Sans MS", cursive, sans-serif; */
+  /* font-family: monospace, "OCR A Std"; */
+  font-family: fantasy, Chalkduster;
+  margin-left: 25% auto;
+  /* background-color: black; */
+}
+
+.jumbotron {
+  background-color: black;
+}
+
+.row1 {
+  display: flex;
+  flex-wrap: nowrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+#new-product{
+  margin: auto;
+  width: 30%;
+  border: 3px solid black;
+  padding: 10px;
+  margin-left: 35%
+}
+
+
+.product-show-title{
+  /* font-family:  Luminari, fantasy; */
+  font-family: "OCR A Std", monospace;
+  font-variant: small-caps;
+}
+
+.list-group-item{
+  font-family: "Andale Mono", monospace;
+  /* font-stretch: ultra-expanded; */
+  /* font-stretch: ultra-condensed; */
+  
+}

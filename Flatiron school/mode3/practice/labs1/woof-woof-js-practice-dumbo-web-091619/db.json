@@ -1,0 +1,70 @@
+{
+  "pups": [
+    {
+      "id": 1,
+      "name": "Mr. Bonkers",
+      "isGoodDog": true,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_1.jpg",
+      "isGooddog": true
+    },
+    {
+      "id": 2,
+      "name": "Nugget",
+      "isGoodDog": true,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Skittles",
+      "isGoodDog": false,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_3.jpg",
+      "isGooddog": true
+    },
+    {
+      "id": 4,
+      "name": "Buttercup",
+      "isGoodDog": true,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_4.jpg",
+      "isGooddog": false
+    },
+    {
+      "id": 5,
+      "name": "Lucipher",
+      "isGoodDog": true,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_5.jpg",
+      "isGooddog": true
+    },
+    {
+      "id": 6,
+      "name": "Snooper Pooper",
+      "isGoodDog": true,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Puddles",
+      "isGoodDog": true,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_7.jpg",
+      "isGooddog": false
+    },
+    {
+      "id": 8,
+      "name": "Mittens",
+      "isGoodDog": true,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_1.jpg",
+      "isGooddog": false
+    },
+    {
+      "id": 9,
+      "name": "Middens",
+      "isGoodDog": true,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_2.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Fido",
+      "isGoodDog": false,
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_5.jpg"
+    }
+  ]
+}
