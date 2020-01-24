@@ -1,1 +1,0 @@
-Property.destroy_all

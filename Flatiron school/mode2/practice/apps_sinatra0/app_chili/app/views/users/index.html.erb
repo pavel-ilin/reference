@@ -1,0 +1,11 @@
+<h1>This is the Model's index page.</h1>
+
+<h3><a href="/users/new">Create new user</a></h3>
+
+<p>All users:</p>
+<% @users.each do |user|%>
+<ul>
+  <li><a href="/users/<%= user.id %>"> <%= user.name %></a></li>
+</ul>
+<% end %>
+

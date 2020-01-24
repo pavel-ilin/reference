@@ -1,0 +1,23 @@
+<h1>This is the show page for an individual instance of your model.</h1>
+
+<p>Hi, my name is <%= @user.name%>, and I'm freaking hungry! </p>
+
+<a href="/users/<%=@user.id%>/edit">Edit user info</a>
+<br>
+<br>
+<form method="POST" action="/users/<%= @user.id %>">
+  <input type="hidden" name="_method" value="DELETE">
+  <input type="submit" value="Delete user">
+</form>
+
+<br>
+<h3><a href="/users/<%=@user.id%>/have_dinner">Have a dinner</a></h3>
+<br>
+
+<p>My meals: </p>
+<ul>
+  <% @user.meals.each do |i| %>
+    <li><%= i.title%>, <%=i.updated_at%></li>
+  <%end%>
+</ul>
+<br>
