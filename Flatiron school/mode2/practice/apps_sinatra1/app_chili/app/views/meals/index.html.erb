@@ -1,0 +1,13 @@
+<h1>This is the Model's index page.</h1>
+
+<h3><a href="/meals/new">Create new meal</a></h3>
+
+
+<p>All meals:</p>
+<% @meals.each do |meal|%>
+<ul>
+  <li>
+    <a href="/meals/<%=meal.id%>"> <%=meal.title%></a>
+  </li>
+</ul>
+<% end %>
