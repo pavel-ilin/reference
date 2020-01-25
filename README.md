@@ -26,11 +26,18 @@
 
 ## Math
 - Mathematics for Computer Science
-- Mathematics for Machine Learning Specialization
+- Imperial College London - [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
 - Khan Academy Introduction to Matrices
 - Khan Academy Linear Algebra
 - Khan Academy Multivariable Calculus
 - Khan Academy Statistics and Probability
+
+## AI
+- CORNELL CS4780 - ["Machine Learning for Intelligent Systems"](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS&fbclid=IwAR0yhW6tHiSUGqkQofOQA6JSj7FOS0bS7MP9KjEuw_RwDm4LgrJDx5xgTfs)
+- Stanford CS229 - [Machine Learning](https://see.stanford.edu/Course/CS229?fbclid=IwAR2B-hB_hDtorjxlDisqiJDOy2q1VAoa3Awcb374pMG56uENzVpewWGDTOg)
+- University of Waterloo - [Understanding Machine Learning](https://www.newworldai.com/understanding-machine-learning-course/?fbclid=IwAR0abMy0MxDMHUIc29mL5UJYa_c-27bv0bwQiN4bqd35ByZbACX5DeY611Q)
+- Google - [Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+- Richelieu Lyceum - [Machine-Learning-Course](https://github.com/romasoletskyi/Machine-Learning-Course)
 
 ---
 
