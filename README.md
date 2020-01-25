@@ -13,7 +13,7 @@
 - Software Development Processes and Methodologies
 - Princeton University - [Algorithms part I](https://www.coursera.org/learn/algorithms-part1), [Algorithms part II](https://www.coursera.org/learn/algorithms-part2)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
-- University of Michigan - [Applied Data Science with Python Specialization]( Applied Data Science with Python)
+- University of Michigan - [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)
 - Google - [Cloud Engineering with GCP](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
 
 
