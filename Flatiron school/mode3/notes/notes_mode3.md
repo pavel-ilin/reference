@@ -140,3 +140,9 @@ class ClassName {
 }
 ```
 
+# Rails as an API
+
+```
+rails new super-awesome-api --api --database=postgresql
+```
+
