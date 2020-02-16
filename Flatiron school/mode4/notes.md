@@ -5,7 +5,7 @@ sudo npm install -g create-react-app
 
 # Create react app
 ```
-create-react-app app_name
+npx create-react-app app_name
 ```
 
 # Start server
