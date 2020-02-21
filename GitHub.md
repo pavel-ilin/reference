@@ -20,7 +20,7 @@ git status
 
 Commit changes in index
 ```
-git commit
+git commit -m 'your comments'
 ```
 
 Push to remote repository
