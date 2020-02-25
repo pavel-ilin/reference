@@ -40,3 +40,19 @@ console.log(arr); // should be [3,4,5,6,7,8,9,10]
 console.log(source); // should be [1,2,3,4,5,6,7,8,9,10];
 ```
 
+
+# Regular Expressions: Match a Literal String with Different Possibilities
+
+```javascript
+let petString = "James has a pet cat.";
+let petRegex = /dog|cat|bird|fish/;
+let result = petRegex.test(petString);
+```
+
+# Find More Than the First Match
+
+```javascript
+let twinkleStar = "Twinkle, twinkle, little star";
+let starRegex = /Twinkle/gi;
+let result = twinkleStar.match(starRegex);
+```
