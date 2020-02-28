@@ -49,10 +49,18 @@ let petRegex = /dog|cat|bird|fish/;
 let result = petRegex.test(petString);
 ```
 
-# Find More Than the First Match
+# egular Expressions: Find More Than the First Match
 
 ```javascript
 let twinkleStar = "Twinkle, twinkle, little star";
 let starRegex = /Twinkle/gi;
 let result = twinkleStar.match(starRegex);
+```
+
+# Regular Expressions: Match Numbers and Letters of the Alphabet
+
+```javascript
+let quoteSample = "Blueberry 3.141592653s are delicious.";
+let myRegex = /[h-s2-6]/gi; // Change this line
+let result = quoteSample.match(myRegex); // Change this line
 ```
