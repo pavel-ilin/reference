@@ -75,3 +75,29 @@ Credentials:
 git config --global credential.username my_username
 git config --global credential.password password
 ```
+
+## How to update a forked repo with git rebase
+
+- Add the remote (original repo that you forked) and call it “upstream”
+```
+git remote add upstream https://github.com/original-repo/goes-here.git
+```
+
+- Fetch all branches of remote upstream
+
+```
+git fetch upstream
+```
+
+- Rewrite your master with upstream’s master using git rebase.
+
+```
+git rebase upstream/master
+```
+
+- Push your updates to master. You may need to force the push with force
+
+```
+git push origin master --force
+```
+
