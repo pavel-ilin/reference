@@ -101,3 +101,10 @@ git rebase upstream/master
 git push origin master --force
 ```
 
+- Change upstream or origin urls
+
+```
+git remote set-url upstream https://some_url/some_repo
+git remote set-url origin https://some_url/some_repo
+```
+
