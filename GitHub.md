@@ -108,3 +108,12 @@ git remote set-url upstream https://some_url/some_repo
 git remote set-url origin https://some_url/some_repo
 ```
 
+- Remove local commits
+
+```
+// Delete the most recent commit:
+git reset --hard HEAD~1
+
+// Delete the most recent commit, without destroying the work you've done:
+git reset --soft HEAD~1
+```
