@@ -114,6 +114,8 @@ git remote set-url origin https://some_url/some_repo
 // Delete the most recent commit:
 git reset --hard HEAD~1
 
+git reset --hard upstream/master
+
 // Delete the most recent commit, without destroying the work you've done:
 git reset --soft HEAD~1
 ```
