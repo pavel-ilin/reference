@@ -9,3 +9,7 @@ In console:
 - - for web build: `expo build:web`
 - - for web ios: `expo build:ios`
 - - for web build: `expo build:android`
+
+# General config
+
+- Install firebase dependencies `yarn add firebase`
