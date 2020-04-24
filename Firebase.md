@@ -9,6 +9,7 @@ In console:
 - - for web build: `expo build:web`
 - - for web ios: `expo build:ios`
 - - for web build: `expo build:android`
+- Deploy on firebase: `firebase deploy`
 
 # General config
 
