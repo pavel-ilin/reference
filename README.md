@@ -37,12 +37,12 @@
 
 # Complete
 
-## JPMorgan Chase [Software Engineering Virtual Experience](https://github.com/pavel-ilin/reference/tree/master/Courses/JPMorgan%20internship)
+## JPMorgan Chase - [Software Engineering Virtual Experience](https://github.com/pavel-ilin/reference/tree/master/Courses/JPMorgan%20internship)
 1. [Interface with a stock price data feed](https://github.com/pavel-ilin/reference/tree/master/Courses/JPMorgan%20internship/JPMC-tech-task-1-py3)
 2. [JPMorgan Chase frameworks and tools](https://github.com/pavel-ilin/reference/tree/master/Courses/JPMorgan%20internship/JPMC-tech-task-2-PY3)
 3. [Display data visually for traders](https://github.com/pavel-ilin/reference/tree/master/Courses/JPMorgan%20internship/JPMC-tech-task-3-PY3)
 
-## [Flatiron School](https://flatironschool.com/career-courses/coding-bootcamp)
+## Flatiron School - [Full Stack Software Engineer] (https://flatironschool.com/career-courses/coding-bootcamp)
 1. [Ruby OOP](https://github.com/pavel-ilin/reference/tree/master/Courses/FlatironSchool/mode1)
 2. [Ruby on Rails](https://github.com/pavel-ilin/reference/tree/master/Courses/FlatironSchool/mode2)
 3. [JavaScript](https://github.com/pavel-ilin/reference/tree/master/Courses/FlatironSchool/mode3)
