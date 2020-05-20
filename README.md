@@ -3,14 +3,11 @@
 # In progress
 
 - [Harvard: CS50](https://github.com/pavel-ilin/reference/tree/master/Courses/Harvard_University/CS50)
-
 - [CS50's Web Programming with Python and JavaScript](https://github.com/pavel-ilin/reference/tree/master/Courses/Harvard_University/CS50's%20Web%20Programming%20with%20Python%20and%20JavaScript)
-
 - [Free Code Camp - JavaScript](https://github.com/pavel-ilin/reference/tree/master/Courses/FreeCodeCamp/JavaScript)
 
 # Next
 ## Computer Science
-- Software Development Processes and Methodologies
 - Princeton University - [Algorithms part I](https://www.coursera.org/learn/algorithms-part1), [Algorithms part II](https://www.coursera.org/learn/algorithms-part2)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
 - University of Michigan - [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)
