@@ -2,11 +2,11 @@
 
 # In progress
 
-- [Harvard: CS50](https://github.com/pavel-ilin/education/tree/master/Harvard%20University/CS50)
+- [Harvard: CS50](https://github.com/pavel-ilin/reference/tree/master/Courses/Harvard_University/CS50)
 
-- [CS50's Web Programming with Python and JavaScript](https://github.com/pavel-ilin/education/tree/master/Harvard%20University/CS50's%20Web%20Programming%20with%20Python%20and%20JavaScript)
+- [CS50's Web Programming with Python and JavaScript](https://github.com/pavel-ilin/reference/tree/master/Courses/Harvard_University/CS50's%20Web%20Programming%20with%20Python%20and%20JavaScript)
 
-- [Free Code Camp - JavaScript](https://github.com/pavel-ilin/education/tree/master/FreeCodeCamp/JavaScript)
+- [Free Code Camp - JavaScript](https://github.com/pavel-ilin/reference/tree/master/Courses/FreeCodeCamp/JavaScript)
 
 # Next
 ## Computer Science
@@ -18,12 +18,11 @@
 
 
 ## IBM - [Python for Data Science](https://cognitiveclass.ai/learn/data-science-with-python/)
-1. [Python for Data Science](https://github.com/Refugee-Studio/Education/tree/master/IBM%20Data%20Science/1.%20Python%20for%20Data%20Science) - done
+1. [Python for Data Science](https://github.com/pavel-ilin/reference/tree/master/Courses/IBM_Data_Science/1.%20Python%20for%20Data%20Science) - done
 2. Data Analysis with Python - next
 3. Data Visualization with Python - next
 
 ## Math
-- Mathematics for Computer Science
 - Imperial College London - [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
 - Khan Academy Introduction to Matrices
 - Khan Academy Linear Algebra
@@ -42,19 +41,19 @@
 # Complete
 
 ## [Flatiron School](https://flatironschool.com/career-courses/coding-bootcamp)
-1. [Ruby OOP](https://github.com/pavel-ilin/Education/tree/master/Flatiron%20school/mode1)
-2. [Ruby on Rails](https://github.com/pavel-ilin/Education/tree/master/Flatiron%20school/mode2)
-3. [JavaScript](https://github.com/pavel-ilin/Education/tree/master/Flatiron%20school/mode3)
-4. [React](https://github.com/pavel-ilin/Education/tree/master/Flatiron%20school/mode4)
+1. [Ruby OOP](https://github.com/pavel-ilin/reference/tree/master/Courses/FlatironSchool/mode1)
+2. [Ruby on Rails](https://github.com/pavel-ilin/reference/tree/master/Courses/FlatironSchool/mode2)
+3. [JavaScript](https://github.com/pavel-ilin/reference/tree/master/Courses/FlatironSchool/mode3)
+4. [React](hhttps://github.com/pavel-ilin/reference/tree/master/Courses/FlatironSchool/mode4)
 
 ## Microsoft - [Software Engineer - program retired](https://academy.microsoft.com/en-us/professional-program/tracks/entry-level-software-development/)
-1. [Logic and Computational Thinking](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/0.%20Logic%20and%20Computational%20Thinking) - Done
-2. [Python Beginner](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/1.%20Python%20Beginner) - Done
-3. [Python Fundamentals](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Software%20Engineer/2.%20Python%20Fundamentals) - Done
+1. [Logic and Computational Thinking](https://github.com/pavel-ilin/reference/tree/master/Courses/Microsoft/Software%20Engineer/0.%20Logic%20and%20Computational%20Thinking) - Done
+2. [Python Beginner](https://github.com/pavel-ilin/reference/tree/master/Courses/Microsoft/Software%20Engineer/1.%20Python%20Beginner) - Done
+3. [Python Fundamentals](https://github.com/pavel-ilin/reference/tree/master/Courses/Microsoft/Software%20Engineer/2.%20Python%20Fundamentals) - Done
 
 ## Microsoft - [AI program - program retired](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
-1. [Introduction to Artificial Intelligence](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Artificial%20Intelligence/1.%20Introduction%20to%20Artificial%20Intelligence%20(AI)) - Done
-2. [Introduction to Python for Data Science](https://github.com/Refugee-Studio/Education/tree/master/Microsoft/Artificial%20Intelligence/2.%20Introduction%20to%20Python%20for%20Data%20Science) - Done
+1. [Introduction to Artificial Intelligence](https://github.com/pavel-ilin/reference/tree/master/Courses/Microsoft/Artificial-Intelligence/1.Introduction%20to%20Artificial%20Intelligence%20(AI)) - Done
+2. [Introduction to Python for Data Science](https://github.com/pavel-ilin/reference/tree/master/Courses/Microsoft/Artificial-Intelligence/2.Introduction%20to%20Python%20for%20Data%20Science) - Done
 
 ## IBM - [Data Science Foundations](https://github.com/pavel-ilin/education/tree/master/IBM%20Data%20Science)
 1. [Introduction to Data Science](https://courses.cognitiveclass.ai/certificates/user/1032905/course/course-v1:BigDataUniversity+DS0101EN+2016)
@@ -62,11 +61,11 @@
 3. [Data Science Methodology](https://courses.cognitiveclass.ai/certificates/user/1032905/course/course-v1:CognitiveClass+DS0103EN+v3)
 
 ## University of Michigan - [Python programming specialization](https://www.coursera.org/specializations/python)
-1. [Programming for Everybody](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/1.%20Programming%20for%20Everybody)
-2. [Python Data Structures](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/2.%20Python%20Data%20Structures)
-3. [Using Python to Access Web Data](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/3.%20Using%20Python%20to%20Access%20Web%20Data)
-4. [Using Databases with Python](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/4.%20Using%20Databases%20with%20Python)
-5. [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://github.com/Refugee-Studio/Education/tree/master/University%20of%20Michigan/Python/5.%20Capstone%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python)
+1. [Programming for Everybody](https://github.com/pavel-ilin/tree/master/Courses/University%20of%20Michigan/Python/1.%20Programming%20for%20Everybody)
+2. [Python Data Structures](https://github.com/pavel-ilin/tree/master/Courses/University%20of%20Michigan/Python/2.%20Python%20Data%20Structures)
+3. [Using Python to Access Web Data](https://github.com/pavel-ilin/tree/master/Courses/University%20of%20Michigan/Python/3.%20Using%20Python%20to%20Access%20Web%20Data)
+4. [Using Databases with Python](https://github.com/pavel-ilin/tree/master/Courses/University%20of%20Michigan/Python/4.%20Using%20Databases%20with%20Python)
+5. [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://github.com/pavel-ilin/tree/master/Courses/University%20of%20Michigan/Python/5.%20Capstone%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python)
 
 ## [Free Code Camp](https://www.freecodecamp.org)
-1. [HTML and CSS](https://github.com/pavel-ilin/education/tree/master/FreeCodeCamp/HTML_CSS)
+1. [HTML and CSS](https://github.com/pavel-ilin/pavel-ilin/tree/master/Courses/FreeCodeCamp/HTML_CSS)
