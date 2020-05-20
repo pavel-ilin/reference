@@ -47,13 +47,13 @@
 4. [React](https://github.com/pavel-ilin/reference/tree/master/Courses/FlatironSchool/mode4)
 
 ## Microsoft - [Software Engineer - program retired](https://academy.microsoft.com/en-us/professional-program/tracks/entry-level-software-development/)
-1. [Logic and Computational Thinking](https://github.com/pavel-ilin/reference/tree/master/Courses/Microsoft/Software%20Engineer/0.%20Logic%20and%20Computational%20Thinking) - Done
-2. [Python Beginner](https://github.com/pavel-ilin/reference/tree/master/Courses/Microsoft/Software%20Engineer/1.%20Python%20Beginner) - Done
-3. [Python Fundamentals](https://github.com/pavel-ilin/reference/tree/master/Courses/Microsoft/Software%20Engineer/2.%20Python%20Fundamentals) - Done
+1. [Logic and Computational Thinking](https://github.com/pavel-ilin/reference/tree/master/Courses/Microsoft/Software%20Engineer/0.%20Logic%20and%20Computational%20Thinking)
+2. [Python Beginner](https://github.com/pavel-ilin/reference/tree/master/Courses/Microsoft/Software%20Engineer/1.%20Python%20Beginner)
+3. [Python Fundamentals](https://github.com/pavel-ilin/reference/tree/master/Courses/Microsoft/Software%20Engineer/2.%20Python%20Fundamentals)
 
 ## Microsoft - [AI program - program retired](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
-1. [Introduction to Artificial Intelligence](https://github.com/pavel-ilin/reference/tree/master/Courses/Microsoft/Artificial-Intelligence/1.Introduction%20to%20Artificial%20Intelligence%20(AI)) - Done
-2. [Introduction to Python for Data Science](https://github.com/pavel-ilin/reference/tree/master/Courses/Microsoft/Artificial-Intelligence/2.Introduction%20to%20Python%20for%20Data%20Science) - Done
+1. [Introduction to Artificial Intelligence](https://github.com/pavel-ilin/reference/tree/master/Courses/Microsoft/Artificial-Intelligence/1.Introduction%20to%20Artificial%20Intelligence%20(AI))
+2. [Introduction to Python for Data Science](https://github.com/pavel-ilin/reference/tree/master/Courses/Microsoft/Artificial-Intelligence/2.Introduction%20to%20Python%20for%20Data%20Science)
 
 ## IBM - [Data Science Foundations](https://github.com/pavel-ilin/education/tree/master/IBM%20Data%20Science)
 1. [Introduction to Data Science](https://courses.cognitiveclass.ai/certificates/user/1032905/course/course-v1:BigDataUniversity+DS0101EN+2016)
