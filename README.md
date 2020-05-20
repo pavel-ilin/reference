@@ -44,7 +44,7 @@
 1. [Ruby OOP](https://github.com/pavel-ilin/reference/tree/master/Courses/FlatironSchool/mode1)
 2. [Ruby on Rails](https://github.com/pavel-ilin/reference/tree/master/Courses/FlatironSchool/mode2)
 3. [JavaScript](https://github.com/pavel-ilin/reference/tree/master/Courses/FlatironSchool/mode3)
-4. [React](hhttps://github.com/pavel-ilin/reference/tree/master/Courses/FlatironSchool/mode4)
+4. [React](https://github.com/pavel-ilin/reference/tree/master/Courses/FlatironSchool/mode4)
 
 ## Microsoft - [Software Engineer - program retired](https://academy.microsoft.com/en-us/professional-program/tracks/entry-level-software-development/)
 1. [Logic and Computational Thinking](https://github.com/pavel-ilin/reference/tree/master/Courses/Microsoft/Software%20Engineer/0.%20Logic%20and%20Computational%20Thinking) - Done
