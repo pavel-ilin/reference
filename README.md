@@ -1,11 +1,10 @@
 # Self-Education process
 
-# Status
+# Status 
 
 <table>
 <tr><th>Languages</th><th>Frameworks</th><th>Databases</th><th>Clouds</th></tr>
 <tr><td>
-
 |Language|Status|
 |--|--|
 | Python | Competent |
@@ -14,9 +13,7 @@
 | GO | Novice |
 | Java | Novice |
 | PHP | Novice |
-
 </td><td>
-
 |Framework|Status|
 |--|--|
 |Ruby on Rails|Competent|
@@ -24,11 +21,8 @@
 |React Native|Advanced Beginner|
 |Node/Express|Advanced Beginner|
 |Django|Advanced Beginner|
-
 </td>
-
 <td>
-
 |Database|Status|
 |--|--|
 |PostgreSQL|Competent|
@@ -37,18 +31,14 @@
 |MySQL|Advanced Beginner|
 |MongoDB|Advanced Beginner|
 |NoSQL|Advanced Beginner|
-
 </td>
-
 <td>
-
 |Cloud|Status|
 |--|--|
 |AWS|Advanced Beginner|
 |Google Cloud|Advanced Beginner|
 |Azure|None|
-
-</td></tr> </table>
+</td></tr></table>
 
 # Complete
 
