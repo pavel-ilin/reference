@@ -5,28 +5,35 @@
 <table>
 <tr><th>Languages</th><th>Frameworks</th><th>Databases</th><th>Clouds</th></tr>
 <tr><td>
+
 |Language|Status|
 |--|--|
-|Python|Competent|
-|Ruby|Competent|
+| Python | Competent |
+| Ruby | Competent |
+
+</td><td>
+
+|b|1|
+|--|--|
+|a|s|
+
 </td>
+
 <td>
-|b|1|2|3| 
-|--|--|--|--|
-|a|s|d|f|
+
+|b|1|
+|--|--|
+|a|s|
+
 </td>
+
 <td>
-|b|1|2|3| 
-|--|--|--|--|
-|a|s|d|f|
-</td>
-<td>
-|b|1|2|3| 
-|--|--|--|--|
-|a|s|d|f|
-</td>
-</tr>
-</table>
+
+|b|1|
+|--|--|
+|a|s|
+
+</td></tr> </table>
 
 # Complete
 
