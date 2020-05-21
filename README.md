@@ -1,39 +1,6 @@
 # Self-Education process
 
-# In progress
-
-- [Harvard: CS50](https://github.com/pavel-ilin/reference/tree/master/Courses/Harvard_University/CS50)
-- [CS50's Web Programming with Python and JavaScript](https://github.com/pavel-ilin/reference/tree/master/Courses/Harvard_University/CS50's%20Web%20Programming%20with%20Python%20and%20JavaScript)
-- [Free Code Camp - JavaScript](https://github.com/pavel-ilin/reference/tree/master/Courses/FreeCodeCamp/JavaScript)
-
-# Next
-## Computer Science
-- Princeton University - [Algorithms part I](https://www.coursera.org/learn/algorithms-part1), [Algorithms part II](https://www.coursera.org/learn/algorithms-part2)
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
-- University of Michigan - [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)
-- Google - [Cloud Engineering with GCP](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
-
-
-## IBM - [Python for Data Science](https://cognitiveclass.ai/learn/data-science-with-python/)
-1. [Python for Data Science](https://github.com/pavel-ilin/reference/tree/master/Courses/IBM_Data_Science/1.%20Python%20for%20Data%20Science) - done
-2. Data Analysis with Python - next
-3. Data Visualization with Python - next
-
-## Math
-- Imperial College London - [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
-- Khan Academy Introduction to Matrices
-- Khan Academy Linear Algebra
-- Khan Academy Multivariable Calculus
-- Khan Academy Statistics and Probability
-
-## AI
-- CORNELL CS4780 - ["Machine Learning for Intelligent Systems"](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS&fbclid=IwAR0yhW6tHiSUGqkQofOQA6JSj7FOS0bS7MP9KjEuw_RwDm4LgrJDx5xgTfs)
-- Stanford CS229 - [Machine Learning](https://see.stanford.edu/Course/CS229?fbclid=IwAR2B-hB_hDtorjxlDisqiJDOy2q1VAoa3Awcb374pMG56uENzVpewWGDTOg)
-- University of Waterloo - [Understanding Machine Learning](https://www.newworldai.com/understanding-machine-learning-course/?fbclid=IwAR0abMy0MxDMHUIc29mL5UJYa_c-27bv0bwQiN4bqd35ByZbACX5DeY611Q)
-- Google - [Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
-- Richelieu Lyceum - [Machine-Learning-Course](https://github.com/romasoletskyi/Machine-Learning-Course)
-
----
+# Status
 
 # Complete
 
@@ -71,3 +38,40 @@
 
 ## [Free Code Camp](https://www.freecodecamp.org)
 1. [HTML and CSS](https://github.com/pavel-ilin/pavel-ilin/tree/master/Courses/FreeCodeCamp/HTML_CSS)
+
+---
+
+# In progress
+
+- [Harvard: CS50](https://github.com/pavel-ilin/reference/tree/master/Courses/Harvard_University/CS50)
+- [CS50's Web Programming with Python and JavaScript](https://github.com/pavel-ilin/reference/tree/master/Courses/Harvard_University/CS50's%20Web%20Programming%20with%20Python%20and%20JavaScript)
+- [Free Code Camp - JavaScript](https://github.com/pavel-ilin/reference/tree/master/Courses/FreeCodeCamp/JavaScript)
+
+---
+
+# Next
+## Computer Science
+- Princeton University - [Algorithms part I](https://www.coursera.org/learn/algorithms-part1), [Algorithms part II](https://www.coursera.org/learn/algorithms-part2)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
+- University of Michigan - [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)
+- Google - [Cloud Engineering with GCP](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
+
+
+## IBM - [Python for Data Science](https://cognitiveclass.ai/learn/data-science-with-python/)
+1. [Python for Data Science](https://github.com/pavel-ilin/reference/tree/master/Courses/IBM_Data_Science/1.%20Python%20for%20Data%20Science) - done
+2. Data Analysis with Python - next
+3. Data Visualization with Python - next
+
+## Math
+- Imperial College London - [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
+- Khan Academy Introduction to Matrices
+- Khan Academy Linear Algebra
+- Khan Academy Multivariable Calculus
+- Khan Academy Statistics and Probability
+
+## AI
+- CORNELL CS4780 - ["Machine Learning for Intelligent Systems"](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS&fbclid=IwAR0yhW6tHiSUGqkQofOQA6JSj7FOS0bS7MP9KjEuw_RwDm4LgrJDx5xgTfs)
+- Stanford CS229 - [Machine Learning](https://see.stanford.edu/Course/CS229?fbclid=IwAR2B-hB_hDtorjxlDisqiJDOy2q1VAoa3Awcb374pMG56uENzVpewWGDTOg)
+- University of Waterloo - [Understanding Machine Learning](https://www.newworldai.com/understanding-machine-learning-course/?fbclid=IwAR0abMy0MxDMHUIc29mL5UJYa_c-27bv0bwQiN4bqd35ByZbACX5DeY611Q)
+- Google - [Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+- Richelieu Lyceum - [Machine-Learning-Course](https://github.com/romasoletskyi/Machine-Learning-Course)
