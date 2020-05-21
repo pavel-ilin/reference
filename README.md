@@ -5,6 +5,7 @@
 <table>
 <tr><th>Languages</th><th>Frameworks</th><th>Databases</th><th>Clouds</th></tr>
 <tr><td>
+|Language|Status|
 |--|--|
 |Python|Competent|
 |Ruby|Competent|
