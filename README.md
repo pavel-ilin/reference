@@ -4,9 +4,9 @@
 
 Programming languages
 
-| Python | Compitent   |
-|-------|-------|
-| Ruby | Compitent |
+| Language | Status |  Database | Status |  
+|-------|-------|-------|-------|
+| Ruby | Compitent | PostgreSQL | Compitent |
 
 
 
