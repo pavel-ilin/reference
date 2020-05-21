@@ -2,13 +2,23 @@
 
 # Status
 
-Programming languages: 
-
-| Language | Status |
-| --- | ----------- |
-| Python | Competent |
-| Ruby | Competent |
-
+<table>
+<tr><th>Languages</th><th>Frameworks</th></tr><tr><th>Databases</th><th>Clouds</th></tr>
+<tr><td>
+|Python|Competent|
+|Ruby|Competent|
+</td>
+<td>
+|a|s|d|f|
+</td>
+<td>
+|a|s|d|f|
+</td>
+<td>
+|a|s|d|f|
+</td>
+</tr> 
+</table>
 
 # Complete
 
