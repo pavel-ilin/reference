@@ -9,7 +9,7 @@
 | Ruby | Competent |
 
 <table>
-<tr><th>Languages</th><th>Frameworks</th></tr><tr><th>Databases</th><th>Clouds</th></tr>
+<tr><th>Languages</th><th>Frameworks</th><tr><th>Databases</th><th>Clouds</th></tr>
 <tr><td>
 
 |Table 1|Table 2|
