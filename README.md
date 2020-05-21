@@ -4,9 +4,9 @@
 
 Programming languages
 
-| Language | Status |  Database | Status |  
-|-------|-------|-------|-------|
-| Ruby | Compitent | PostgreSQL | Compitent |
+| Language | Status |  Framework | Status | Database | Status | Clouds | Status | 
+|-------|-------|-------|-------|-------|-------|-------|-------|
+| Ruby | Compitent | Ruby on Rails | Compitent | PostgreSQL | Compitent | AWS | Compitent |
 
 
 
