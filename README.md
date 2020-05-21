@@ -7,6 +7,9 @@ Programming languages
 | Language | Status |  Framework | Status | Database | Status | Clouds | Status | 
 |-------|-------|-------|-------|-------|-------|-------|-------|
 | Ruby | Compitent | Ruby on Rails | Compitent | PostgreSQL | Compitent | AWS | Compitent |
+| Python | Compitent | Django | Compitent | SQLite | Compitent | Google Cloud | Compitent |
+| JavaScript | Compitent | React/Redux | Compitent | SQL | Compitent | Azure | Compitent |
+
 
 
 
