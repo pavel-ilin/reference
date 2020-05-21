@@ -10,10 +10,11 @@
 |--|--|
 | Python | Competent |
 | Ruby | Competent |
+| JavaScript | Competent |
 
 </td><td>
 
-|b|1|
+|Framework|Status|
 |--|--|
 |a|s|
 
@@ -21,7 +22,7 @@
 
 <td>
 
-|b|1|
+|Database|Status|
 |--|--|
 |a|s|
 
@@ -29,7 +30,7 @@
 
 <td>
 
-|b|1|
+|Cloud|Status|
 |--|--|
 |a|s|
 
