@@ -2,27 +2,30 @@
 
 # Status
 
-
-| Language | Status |
-| --- | ----------- |
-| Python | Competent |
-| Ruby | Competent |
-
 <table>
 <tr><th>Languages</th><th>Frameworks</th><th>Databases</th><th>Clouds</th></tr>
 <tr><td>
-
-|Table 1|Table 2|
 |--|--|
-|a|b|
-
-</td><td>
-
+|Python|Competent|
+|Ruby|Competent|
+</td>
+<td>
 |b|1|2|3| 
 |--|--|--|--|
 |a|s|d|f|
-
-</td></tr> </table>
+</td>
+<td>
+|b|1|2|3| 
+|--|--|--|--|
+|a|s|d|f|
+</td>
+<td>
+|b|1|2|3| 
+|--|--|--|--|
+|a|s|d|f|
+</td>
+</tr>
+</table>
 
 # Complete
 
