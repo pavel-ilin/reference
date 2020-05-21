@@ -4,15 +4,11 @@
 
 Programming languages
 
-| h1    | h2    | h3    |
-|-------|-------|-------|
-| data1 | data2 | data3 |
+| Python | Compitent   |
+|-------|-------|
+| Ruby | Compitent |
 
-| h1  |  h2 |
-|:-:|:-:|
-| 1  |  1 |
-| 1  |  1 |
-| 1  |  1 |
+
 
 # Complete
 
