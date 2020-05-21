@@ -11,12 +11,19 @@
 | Python | Competent |
 | Ruby | Competent |
 | JavaScript | Competent |
+| GO | Novice |
+| Java | Novice |
+| PHP | Novice |
 
 </td><td>
 
 |Framework|Status|
 |--|--|
-|a|s|
+|Ruby on Rails|Competent|
+|React/Redux|Competent|
+|React Native|Advanced Beginner|
+|Node/Express|Advanced Beginner|
+|Django|Advanced Beginner|
 
 </td>
 
@@ -24,7 +31,12 @@
 
 |Database|Status|
 |--|--|
-|a|s|
+|PostgreSQL|Competent|
+|SQLite|Competent|
+|SQL|Competent|
+|MySQL|Advanced Beginner|
+|MongoDB|Advanced Beginner|
+|NoSQL|Advanced Beginner|
 
 </td>
 
@@ -32,7 +44,9 @@
 
 |Cloud|Status|
 |--|--|
-|a|s|
+|AWS|Advanced Beginner|
+|Google Cloud|Advanced Beginner|
+|Azure|None|
 
 </td></tr> </table>
 
