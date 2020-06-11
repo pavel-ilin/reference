@@ -42,3 +42,21 @@ Alows us to destribute traffic between out subnets based on avaliability zone.
 
 EBS provides persistent block storage volumes for use with EC2 instances in the cloud. Each EBS volume is automatically replicated inside an Availability Zone to protect you from component failure, which offers high availability and durability. EBS volumes offer the consistent and low-latency performance that you need to run your workloads.
 
+# Database
+
+### RDS - Relational Database Service
+
+RDS currently supports six database engines:
+
+- Aurora: https://aws.amazon.com/rds/aurora/
+- PostgreSQL: https://aws.amazon.com/rds/postgresql/
+- MySQL: https://aws.amazon.com/rds/mysql/
+- MariaDB: https://aws.amazon.com/rds/mariadb/
+- Oracle: https://aws.amazon.com/rds/oracle/
+- Microsoft SQL Server: https://aws.amazon.com/rds/sqlserver/
+
+We can use the Database Migration Service (DMS) (https://aws.amazon.com/dms) to quickly and securely migrate your databases to AWS.
+
+### DynamoDB
+
+DynamoDB is a fast and flexible NoSQL database service. 
