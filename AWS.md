@@ -60,3 +60,17 @@ We can use the Database Migration Service (DMS) (https://aws.amazon.com/dms) to 
 ### DynamoDB
 
 DynamoDB is a fast and flexible NoSQL database service. 
+
+# Loads monitoring
+
+### CloudWatch
+
+It's a monitoring service for AWS Cloud resources and the applications that you run on cloud. You can use CloudWatch to collect and track metrics, collect and monitor log files, set alarms, and automatically react to changes in your AWS resources.
+
+### Elastic Load Balancing (ELB) 
+
+Automatically distributes incoming application traffic across multiple targets, such as EC2 instances, containers, and IP addresses. It can handle the varying load of your application traffic in a single Availability Zone or across multiple Availability Zones.
+
+### EC2 Auto Scaling 
+It helps you maintain application availability, and it allows you to dynamically scale your  EC2 capacity up or down automatically according to conditions that you define.
+
