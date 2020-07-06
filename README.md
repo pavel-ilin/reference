@@ -86,6 +86,7 @@
 
 ## [Free Code Camp](https://www.freecodecamp.org)
 1. [HTML and CSS](https://github.com/pavel-ilin/reference/tree/master/Courses/FreeCodeCamp/HTML_CSS)
+2. [JavaScript](/Courses/FreeCodeCamp/JavaScript/Certificate.png)
 
 ---
 
@@ -93,7 +94,6 @@
 
 - [Harvard: CS50](https://github.com/pavel-ilin/reference/tree/master/Courses/Harvard_University/CS50)
 - [CS50's Web Programming with Python and JavaScript](https://github.com/pavel-ilin/reference/tree/master/Courses/Harvard_University/CS50's%20Web%20Programming%20with%20Python%20and%20JavaScript)
-- [Free Code Camp - JavaScript](https://github.com/pavel-ilin/reference/tree/master/Courses/FreeCodeCamp/JavaScript)
 
 ---
 
