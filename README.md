@@ -93,16 +93,19 @@
 # In progress
 
 - [Harvard: CS50](https://github.com/pavel-ilin/reference/tree/master/Courses/Harvard_University/CS50)
-- [CS50's Web Programming with Python and JavaScript](https://github.com/pavel-ilin/reference/tree/master/Courses/Harvard_University/CS50's%20Web%20Programming%20with%20Python%20and%20JavaScript)
+- Moscow Institute of Physics and Technologies - [Art of modern C++ development](https://www.coursera.org/specializations/cs-fundamentals)
 
 ---
 
 # Next
 ## Computer Science
+
+- University of California, Santa Cruz - [C++ For C Programmers, Part A](https://www.coursera.org/learn/c-plus-plus-a), [C++ For C Programmers, Part B](https://www.coursera.org/learn/c-plus-plus-b)
 - Princeton University - [Algorithms part I](https://www.coursera.org/learn/algorithms-part1), [Algorithms part II](https://www.coursera.org/learn/algorithms-part2)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
 - University of Michigan - [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)
 - Google - [Cloud Engineering with GCP](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
+- [CS50's Web Programming with Python and JavaScript](https://github.com/pavel-ilin/reference/tree/master/Courses/Harvard_University/CS50's%20Web%20Programming%20with%20Python%20and%20JavaScript)
 
 
 ## IBM - [Python for Data Science](https://cognitiveclass.ai/learn/data-science-with-python/)
