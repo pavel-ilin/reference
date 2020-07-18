@@ -114,12 +114,6 @@
 - Google - [Cloud Engineering with GCP](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
 - [CS50's Web Programming with Python and JavaScript](https://github.com/pavel-ilin/reference/tree/master/Courses/Harvard_University/CS50's%20Web%20Programming%20with%20Python%20and%20JavaScript)
 
-
-## IBM - [Python for Data Science](https://cognitiveclass.ai/learn/data-science-with-python/)
-1. [Python for Data Science](https://github.com/pavel-ilin/reference/tree/master/Courses/IBM_Data_Science/1.%20Python%20for%20Data%20Science) - done
-2. Data Analysis with Python - next
-3. Data Visualization with Python - next
-
 ## Math
 - Imperial College London - [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
 - Khan Academy Introduction to Matrices
