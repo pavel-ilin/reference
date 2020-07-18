@@ -54,41 +54,46 @@
 
 # Complete
 
-## JPMorgan Chase - [Software Engineering Virtual Experience](https://github.com/pavel-ilin/reference/tree/master/Courses/JPMorgan%20internship)
+## Computer Science
+
+### JPMorgan Chase - [Software Engineering Virtual Experience](https://github.com/pavel-ilin/reference/tree/master/Courses/JPMorgan%20internship)
 1. [Interface with a stock price data feed](https://github.com/pavel-ilin/reference/tree/master/Courses/JPMorgan%20internship/JPMC-tech-task-1-py3)
 2. [JPMorgan Chase frameworks and tools](https://github.com/pavel-ilin/reference/tree/master/Courses/JPMorgan%20internship/JPMC-tech-task-2-PY3)
 3. [Display data visually for traders](https://github.com/pavel-ilin/reference/tree/master/Courses/JPMorgan%20internship/JPMC-tech-task-3-PY3)
 
-## Flatiron School - [Full Stack Software Engineer](https://flatironschool.com/career-courses/coding-bootcamp)
+### Flatiron School - [Full Stack Software Engineer](https://flatironschool.com/career-courses/coding-bootcamp)
 1. [Ruby OOP](https://github.com/pavel-ilin/reference/tree/master/Courses/FlatironSchool/mode1)
 2. [Ruby on Rails](https://github.com/pavel-ilin/reference/tree/master/Courses/FlatironSchool/mode2)
 3. [JavaScript](https://github.com/pavel-ilin/reference/tree/master/Courses/FlatironSchool/mode3)
 4. [React](https://github.com/pavel-ilin/reference/tree/master/Courses/FlatironSchool/mode4)
 
-## Microsoft - [Software Engineer - program retired](https://academy.microsoft.com/en-us/professional-program/tracks/entry-level-software-development/)
+### Microsoft - [Software Engineer - program retired](https://academy.microsoft.com/en-us/professional-program/tracks/entry-level-software-development/)
 1. [Logic and Computational Thinking](https://github.com/pavel-ilin/reference/tree/master/Courses/Microsoft/Software%20Engineer/0.%20Logic%20and%20Computational%20Thinking)
 2. [Python Beginner](https://github.com/pavel-ilin/reference/tree/master/Courses/Microsoft/Software%20Engineer/1.%20Python%20Beginner)
 3. [Python Fundamentals](https://github.com/pavel-ilin/reference/tree/master/Courses/Microsoft/Software%20Engineer/2.%20Python%20Fundamentals)
 
-## Microsoft - [AI program - program retired](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
-1. [Introduction to Artificial Intelligence](https://github.com/pavel-ilin/reference/tree/master/Courses/Microsoft/Artificial-Intelligence/1.Introduction%20to%20Artificial%20Intelligence%20(AI))
-2. [Introduction to Python for Data Science](https://github.com/pavel-ilin/reference/tree/master/Courses/Microsoft/Artificial-Intelligence/2.Introduction%20to%20Python%20for%20Data%20Science)
-
-## IBM - [Data Science Foundations](https://cognitiveclass.ai/learn/data-science)
-1. [Introduction to Data Science](https://courses.cognitiveclass.ai/certificates/user/1032905/course/course-v1:BigDataUniversity+DS0101EN+2016)
-2. [Data Science Tools](https://courses.cognitiveclass.ai/certificates/user/1032905/course/course-v1:CognitiveClass+DS0105EN+v2)
-3. [Data Science Methodology](https://courses.cognitiveclass.ai/certificates/user/1032905/course/course-v1:CognitiveClass+DS0103EN+v3)
-
-## University of Michigan - [Python programming specialization](https://www.coursera.org/specializations/python)
+### University of Michigan - [Python programming specialization](https://www.coursera.org/specializations/python)
 1. [Programming for Everybody](https://github.com/pavel-ilin/tree/master/Courses/University%20of%20Michigan/Python/1.%20Programming%20for%20Everybody)
 2. [Python Data Structures](https://github.com/pavel-ilin/tree/master/Courses/University%20of%20Michigan/Python/2.%20Python%20Data%20Structures)
 3. [Using Python to Access Web Data](https://github.com/pavel-ilin/tree/master/Courses/University%20of%20Michigan/Python/3.%20Using%20Python%20to%20Access%20Web%20Data)
 4. [Using Databases with Python](https://github.com/pavel-ilin/tree/master/Courses/University%20of%20Michigan/Python/4.%20Using%20Databases%20with%20Python)
 5. [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://github.com/pavel-ilin/tree/master/Courses/University%20of%20Michigan/Python/5.%20Capstone%20Retrieving%2C%20Processing%2C%20and%20Visualizing%20Data%20with%20Python)
 
-## [Free Code Camp](https://www.freecodecamp.org)
+### [Free Code Camp](https://www.freecodecamp.org)
 1. [HTML and CSS](https://github.com/pavel-ilin/reference/tree/master/Courses/FreeCodeCamp/HTML_CSS)
 2. [JavaScript](/Courses/FreeCodeCamp/JavaScript/Certificate.png)
+
+
+## AI
+
+### Microsoft - [AI program - program retired](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
+1. [Introduction to Artificial Intelligence](https://github.com/pavel-ilin/reference/tree/master/Courses/Microsoft/Artificial-Intelligence/1.Introduction%20to%20Artificial%20Intelligence%20(AI))
+2. [Introduction to Python for Data Science](https://github.com/pavel-ilin/reference/tree/master/Courses/Microsoft/Artificial-Intelligence/2.Introduction%20to%20Python%20for%20Data%20Science)
+
+### IBM - [Data Science Foundations](https://cognitiveclass.ai/learn/data-science)
+1. [Introduction to Data Science](https://courses.cognitiveclass.ai/certificates/user/1032905/course/course-v1:BigDataUniversity+DS0101EN+2016)
+2. [Data Science Tools](https://courses.cognitiveclass.ai/certificates/user/1032905/course/course-v1:CognitiveClass+DS0105EN+v2)
+3. [Data Science Methodology](https://courses.cognitiveclass.ai/certificates/user/1032905/course/course-v1:CognitiveClass+DS0103EN+v3)
 
 ---
 
