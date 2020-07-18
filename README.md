@@ -32,9 +32,9 @@
 
 |Database|Status|
 |--|--|
-|PostgreSQL|Competent|
-|SQLite|Competent|
 |SQL|Competent|
+|SQLite|Competent|
+|PostgreSQL|Competent|
 |MySQL|Advanced Beginner|
 |MongoDB|Advanced Beginner|
 |NoSQL|Advanced Beginner|
