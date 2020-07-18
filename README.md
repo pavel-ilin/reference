@@ -47,8 +47,8 @@
 |Cloud|Status|
 |--|--|
 |AWS|Advanced Beginner|
-|Google Cloud|Advanced Beginner|
-|Azure|None|
+|Firebase|Advanced Beginner|
+|Google Cloud|Novice|
 
 </td></tr></table>
 
