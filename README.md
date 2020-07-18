@@ -8,13 +8,13 @@
 
 |Language|Status|
 |--|--|
-| Python | Competent |
-| Ruby | Competent |
-| JavaScript | Competent |
-| C++ | Novice |
-| GO | Novice |
-| Java | Novice |
-| PHP | Novice |
+| Python |Competent|
+| Ruby |Competent|
+| JavaScript |Competent|
+| C++ |Novice|
+| GO |Novice |
+| Java |Novice|
+| PHP |Novice|
 
 </td><td>
 
@@ -38,6 +38,7 @@
 |MySQL|Advanced Beginner|
 |MongoDB|Advanced Beginner|
 |NoSQL|Advanced Beginner|
+|GraphDB|Novice|
 
 </td>
 
