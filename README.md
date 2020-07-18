@@ -11,6 +11,7 @@
 | Python | Competent |
 | Ruby | Competent |
 | JavaScript | Competent |
+| C++ | Novice |
 | GO | Novice |
 | Java | Novice |
 | PHP | Novice |
