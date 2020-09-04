@@ -5,6 +5,4 @@
 - run in the console `export PATH=/Users/user/Library/Android/sdk/platform-tools:$PATH`
 - add virtual device in android studio
 - start virtual device
-- start `react-native` app and run android sumilation
-
-
+- start `react-native` app and run android simulation
