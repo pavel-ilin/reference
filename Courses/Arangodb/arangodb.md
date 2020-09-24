@@ -1,3 +1,4 @@
+arangodb [installation](https://www.arangodb.com/download-major/ubuntu/)
 
 Start arangodb:
 `arangosh`
