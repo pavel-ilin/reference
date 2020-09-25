@@ -1,6 +1,10 @@
 arangodb [installation](https://www.arangodb.com/download-major/ubuntu/)
 
+
 Start arangodb:
+`arangod`
+
+Connect to arangodb:
 `arangosh`
 
 To see visual interface navigate to:
