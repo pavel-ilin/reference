@@ -1,6 +1,6 @@
 # android virtual machine
-`
-#!/bin/sh
+
+`#!/bin/sh
 qemu-system-x86_64 \
 -enable-kvm \
 -boot d \
@@ -17,3 +17,6 @@ qemu-system-x86_64 \
 -hda android_hda.img \
 -cdrom android-x86-7.1-r4-k419.iso \
 `
+
+Resize qemu images:
+`qemu-img resize name.img +1g`
