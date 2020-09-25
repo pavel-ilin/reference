@@ -33,3 +33,58 @@ RETURN NEW`
 Remove documents:
 `FOR docs IN ['item1']
 REMOVE docs in collection_name`
+
+Filter to find documents:
+`FOR item IN collection_name
+    FILTER item.attribute == "test"
+    return item`
+
+## GeoJSON
+
+Points on the map:
+`FOR airport IN airports
+FILTER airport.state == "TX"
+RETURN GEO_POINT(airport.long, airport.lat)`
+
+Distance between points:
+`FOR airport IN airports
+FILTER GEO_DISTANCE([-97.79696778, 31.42127556], [airport.long, airport.lat]) <= 50000
+RETURN airport`
+
+## Joints
+
+`FOR airport IN airports
+    FILTER airport.city == "Dallas"
+    FOR flight IN flights
+        FILTER flight._to == airport._id
+
+        RETURN {
+            "airport": airport.name,
+            "flight": flight.FlightNum
+        }`
+
+## Grouping
+
+Group and sort:
+`FOR airport IN airports
+    COLLECT state = airport.state WITH COUNT INTO total
+    SORT total DESC
+    RETURN {
+        "State": state,
+        "Total airports": total
+    }`
+
+## Aggregation
+
+`FOR flight IN flights
+    COLLECT AGGREGATE
+    minDist = MIN(flight.Distance),
+    maxDist = MAX(flight.Distance)
+    RETURN {
+        "Shorter flight": minDist,
+        "Longest flight": maxDist
+    }`
+
+## Indexes
+
+coming soon

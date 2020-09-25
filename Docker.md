@@ -1,3 +1,13 @@
+# Networking
+
+Reset all networks:
+`docker network prune`
+
+# Reset
+
+Clear all images:
+`docker image prune --all`
+
 # Installation
 
 Remove old docker (just in case):
