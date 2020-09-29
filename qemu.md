@@ -18,5 +18,42 @@ qemu-system-x86_64 \
 -cdrom android-x86-7.1-r4-k419.iso \
 `
 
-Resize qemu images:
-`qemu-img resize name.img +1g`
+# Alpine linux setup
+
+`qemu-system-x86_64 \
+-enable-kvm \
+-m 512 \
+-net nic \
+-net user \
+-hda alpine.img \
+-cdrom alpine-standard-3.12.0-x86_64.iso \`
+
+- Create image:
+`qemu-img create -f qcow2 example.img 10G`
+
+- install dependencies
+
+Git:
+`apk add git`
+
+Python and pip:
+`apk add python3`
+`apk add python3-dev libffi-dev openssl-dev gcc libc-dev make`
+`python3 -m ensurepip`
+
+Libraries to compile and execute binaries:
+`apk add libstdc++ libc6-compat`
+
+Docker:
+`apk add docker`
+`rc-update add docker boot`
+`service docker start`
+[fixing possible errors](https://www.how2shout.com/how-to/how-to-install-docker-ce-on-alpine-linux.html)
+
+Selenoid:
+`apk add curl`
+`curl -o cm https://github.com/aerokube/cm/releases/download/1.7.2/cm_linux_amd64`
+`chmod +x filename`
+`./cm selenoid start --browsers 'firefox:80.0'`
+or
+`/cm selenoid start --vnc`
