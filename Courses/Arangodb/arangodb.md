@@ -85,6 +85,29 @@ Group and sort:
         "Longest flight": maxDist
     }`
 
+## Graphs
+
+`FOR airport IN airports
+    FILTER airport.city == 'San Francisco'
+    FILTER airport.vip == true
+    FOR v, e, p IN 1..1 OUTBOUND
+    airport flights
+    FILTER v._id == 'airports/KOA'
+    RETURN p`
+
+`FOR airport IN airports
+    FILTER airport.city == 'San Francisco'
+    FILTER airport.vip == true
+    FOR v, e, p IN 2..3 OUTBOUND
+    airport flights
+    FILTER v._id == 'airports/KOA'
+    FILTER p.edges[*].Month ALL == 1
+    FILTER p.edges[*].Day ALL == 1
+    FILTER DATE_ADD(p.edges[0].ArrTImeUTC, 20, 'minutes') < p.edges[1].DepTimeUTC
+    FILTER DATE_ADD(p.edges[1].ArrTImeUTC, 20, 'minutes') < p.edges[2].DepTimeUTC
+    LIMIT 10
+    RETURN p`
+    
 ## Indexes
 
 coming soon

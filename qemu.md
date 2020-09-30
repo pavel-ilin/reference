@@ -18,7 +18,7 @@ qemu-system-x86_64 \
 -cdrom android-x86-7.1-r4-k419.iso \
 `
 
-# Alpine linux setup
+# Alpine Linux setup
 
 `qemu-system-x86_64 \
 -enable-kvm \
@@ -40,6 +40,7 @@ Python and pip:
 `apk add python3`
 `apk add python3-dev libffi-dev openssl-dev gcc libc-dev make`
 `python3 -m ensurepip`
+`pip3 install -r requirements.txt`
 
 Libraries to compile and execute binaries:
 `apk add libstdc++ libc6-compat`
@@ -56,4 +57,8 @@ Selenoid:
 `chmod +x filename`
 `./cm selenoid start --browsers 'firefox:80.0'`
 or
-`/cm selenoid start --vnc`
+`./cm selenoid start --vnc`
+
+
+Check localhost:
+`vi /etc/hosts`
