@@ -49,7 +49,7 @@ Docker:
 `apk add docker`
 `rc-update add docker boot`
 `service docker start`
-[fixing possible errors](https://www.how2shout.com/how-to/how-to-install-docker-ce-on-alpine-linux.html)
+[fixing possible errors](https://www.how2shout.com/how-to/how-to-install-docker-ce-on-alpine-linux.html) - use 3.3 version
 
 Selenoid:
 `apk add curl`

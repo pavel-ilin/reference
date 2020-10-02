@@ -107,7 +107,7 @@ Group and sort:
     FILTER DATE_ADD(p.edges[1].ArrTImeUTC, 20, 'minutes') < p.edges[2].DepTimeUTC
     LIMIT 10
     RETURN p`
-    
+
 ## Indexes
 
 coming soon
