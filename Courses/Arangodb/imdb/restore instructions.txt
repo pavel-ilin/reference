@@ -1,0 +1,21 @@
+To restore both collections and create new imdb database:
+
+If restoring to non-local instance you must add --server.endpoint 
+If you receive error regarding replication factor you must supply --replication-factor 2 OR number >= minimum replication factor
+
+arangorestore --input-directory imdb_dump --server.database imdb --create-database true --create-collection true
+
+
+
+-----------------------------------------------
+
+
+To instead import each collection individually:
+
+If restoring to non-local instance you must add --server.endpoint 
+
+Vertex collection:
+arangoimport --file ./vertices/imdb_vertices.json --type json --collection 'imdb_vertices' --create-collection true --batch-size 43000000
+
+Edge collection:
+arangoimport --file ./edges/imdb_edges.json --type json --collection 'imdb_edges' --create-collection true --create-collection-type edge --batch-size 43000000
