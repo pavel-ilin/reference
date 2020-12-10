@@ -1,4 +1,4 @@
-# GitHub Basics
+# Git Basics
 
 Initialize local git repository
 ```
