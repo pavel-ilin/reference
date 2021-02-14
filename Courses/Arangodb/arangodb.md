@@ -1,5 +1,7 @@
 arangodb [installation](https://www.arangodb.com/download-major/ubuntu/)
 
+Start arangodb docker container:
+`docker run -p 8529:8529 -e ARANGO_ROOT_PASSWORD=your_password arangodb/arangodb:3.7.7`
 
 Start arangodb:
 `arangod`
