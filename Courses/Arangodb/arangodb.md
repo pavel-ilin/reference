@@ -12,6 +12,12 @@ Connect to arangodb:
 To see visual interface navigate to:
 `http://127.0.0.1:8529`
 
+Export:
+`arangoexport --server.database First-DB --collection notes  --output-directory "exports" --overwrite true`
+
+Import:
+`arangoimport --file "data/file.json" --type json --collection "collection" --batch-size 33554432 --create-collection true --server.database database_name`
+
 # AQL
 
 Insert new document:

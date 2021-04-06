@@ -50,12 +50,13 @@ def relu(x):
 import numpy as np
 
 def leaky_relu(x):
-  if x > 0 :
+  if x > 0:
     return x
-  else :
+  else:
     return 0.01 * x
 ```
 
 ## Loss functions
 
 ## Optimization functions
+

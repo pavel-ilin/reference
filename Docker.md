@@ -1,3 +1,8 @@
+# Data management 
+
+Copy files inside container:
+`docker cp path_to_the_file container_id:/`
+
 # Networking
 
 Reset all networks:
@@ -42,3 +47,4 @@ Install docker engine:
 
 Verify that Docker is installed and able run containers:
 `sudo docker run hello-world`
+
