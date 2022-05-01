@@ -3,5 +3,8 @@
 
 - Check disk space
 `df`
-Check specific drive
+- Check specific drive
 `df -h /dev/sda1`
+
+- To access linux via windows type 
+`"\\192.168.0.9\liteshare"`

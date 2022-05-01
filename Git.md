@@ -46,10 +46,21 @@ Verifies the new remote URL
 git remote -v
 ```
 
+Add new branch
+```
+git checkout -b branchname
+```
+
+Delete branch
+```
+git branch -d branchname
+```
+
 Remove conficts
 ```
 git mergetool
 ```
+
 
 # Git - new setup
 
